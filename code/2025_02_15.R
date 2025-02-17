@@ -1,4 +1,4 @@
-pacman::p_load(tidyverse, ggsci, patchwork, plotly)
+pacman::p_load(tidyverse, ggsci, patchwork, plotly, here)
 
 # Define agent class
 agent <- function(id, age, vaccinated, hpv_status, disease_state, cost) {
@@ -16,10 +16,10 @@ agent <- function(id, age, vaccinated, hpv_status, disease_state, cost) {
 initialize_population <- function(n, min_age, max_age) {
   lapply(1:n, function(i) {
     age <- sample(min_age:max_age, 1)
-    vaccinated <- sample(c(TRUE, FALSE), 1, prob = c(0.5, 0.5))  # 50% vaccinated
+    vaccinated <- sample(c(TRUE, FALSE), 1, prob = c(0.10, 0.90))  # 10% vaccinated
     hpv_status <- "none"
     disease_state <- "healthy"
-    agent(id = i, age, vaccinated, hpv_status, disease_state)
+    agent(id = i, age, vaccinated, hpv_status, disease_state, cost = 0)
   })
 }
 
@@ -55,6 +55,8 @@ update_agent <- function(agent, ageCap = 26) {
   } else if (runif(1) < 0.01) {
     agent$disease_state <- "dead"  # Background mortality
   }
+  
+  # cost counter
   
   return(agent)
 }
@@ -162,21 +164,27 @@ results <- rbind(results_26_final, results_30_final, results_35_final, results_4
   add_column(group = rep(c("<= 26", "<= 30", "<= 35", "<= 40", "<= 45"), each = (4*65))) 
   
 p <- results %>% 
-  mutate(t = time + 20, value = value/n) %>% 
-  filter(name %in% c("healthy", "dead")) %>%
+  filter(group != "<= 45") %>% 
+  mutate(t = time + 20, value = round(100*value/n, 2)) %>% 
+  mutate(name = factor(name, levels = c("healthy", "precancer", "cancer", "dead"))) %>%
   ggplot(aes(x = t, y = value)) + 
-  geom_line(aes(color = name, linetype = group)) + 
+  geom_smooth(aes(color = name, linetype = group), se = FALSE, linewidth = 0.5) + 
   scale_color_aaas() + 
   theme_bw() + 
   theme(legend.position = "bottom") + 
   labs(linetype = "Vaccination age cap", 
-       x = "Age", y = "Number of people", color = "Status") +
+       x = "Age", y = "Percentage (%) of people", color = "Status") +
   guides(
     color = guide_legend(position = "top"),
     linetype  = guide_legend(position = "bottom")
-  )
+  ) + 
+  facet_wrap(vars(name), ncol = 1, scales = "free_y")
 
-ggplotly(p) 
+ggsave(file.path(here(), "analysis", "2025_02_15_counts.pdf"), p, 
+       width = 8.5,  height = 11, units = "in", device = pdf())
+
+#ggplotly(p) 
+
 
 cost_pre <- 100
 cost_can <- 500
@@ -190,6 +198,10 @@ p_cost <- as_tibble(cbind(cost_26, cost_30, cost_35, cost_40, cost_45)) %>%
   mutate(time = (seq_along(cost_26) + 19)) %>% 
   pivot_longer(cols = -c(time)) %>% 
   mutate(value = value/n) %>% 
+  mutate(name_new = factor(str_split_i(name, "_", 2))) %>%
+  select(-name) %>% 
+  rename(name = name_new) %>% 
+  filter(name != "45") %>% 
   ggplot(aes(x = time, y = value)) + 
   geom_line(aes(color = name)) + 
   scale_color_aaas() + 
@@ -201,5 +213,8 @@ p_cost <- as_tibble(cbind(cost_26, cost_30, cost_35, cost_40, cost_45)) %>%
     color = guide_legend(position = "bottom")
   )
 
-ggplotly(p_cost)
+ggsave(file.path(here(), "analysis", "2025_02_15_cost.pdf"), p_cost, 
+       width = 8.5,  height = 11, units = "in", device = pdf())
+
+#ggplotly(p_cost)
   
