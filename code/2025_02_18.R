@@ -8,7 +8,8 @@ agent <- function(id, age, vaccinated, hpv_status, disease_state, cost) {
     vaccinated = vaccinated,
     hpv_status = hpv_status,
     disease_state = disease_state, 
-    cost = 0
+    cost = 0, 
+    prior = NULL
   )
 }
 
@@ -25,6 +26,10 @@ initialize_population <- function(n, min_age, max_age) {
 
 # Transition rules
 update_agent <- function(agent, ageCap = 26) {
+  
+  # update past history
+  agent$prior <- c(agent$prior, agent$disease_state)
+  
   # Age the agent
   agent$age <- agent$age + 1
   
@@ -37,7 +42,7 @@ update_agent <- function(agent, ageCap = 26) {
   if (agent$hpv_status == "none") {
     p_infection <- ifelse(agent$age < 26, 0.05, 0.02)  # Higher risk for younger ages
     if (agent$vaccinated) p_infection <- p_infection * 0.1  # 90% efficacy
-    if (runif(1) < p_infection) agent$hpv_status <- sample(c("low_risk", "high_risk"), 1, prob = c(0.2, 0.8))
+    if (runif(1) < p_infection) agent$hpv_status <- sample(c("low_risk", "high_risk"), 1, prob = c(0.8, 0.2))
   }
   
   # Disease progression
@@ -45,6 +50,15 @@ update_agent <- function(agent, ageCap = 26) {
     if (agent$disease_state == "healthy" && runif(1) < 0.2) {
       agent$disease_state <- "precancer"  # Healthy → Precancer
     } else if (agent$disease_state == "precancer" && runif(1) < 0.3) {
+      agent$disease_state <- "cancer"  # Precancer → Cancer
+    }
+  }
+  
+  # Disease progression
+  if (agent$hpv_status == "low_risk") {
+    if (agent$disease_state == "healthy" && runif(1) < 0.05) {
+      agent$disease_state <- "precancer"  # Healthy → Precancer
+    } else if (agent$disease_state == "precancer" && runif(1) < 0.075) {
       agent$disease_state <- "cancer"  # Precancer → Cancer
     }
   }
@@ -72,7 +86,7 @@ simulate <- function(population, cycles, ageCap = 26) {
 }
 
 # Initialize and run
-n = 50000
+n = 100000
 population <- initialize_population(n = n, min_age = 20, max_age = 85)
 
 t1 <- Sys.time()
@@ -165,22 +179,26 @@ results <- rbind(results_26_final, results_30_final, results_35_final, results_4
   
 p <- results %>% 
   filter(group != "<= 45") %>% 
-  mutate(t = time + 20, value = round(100*value/n, 2)) %>% 
+  mutate(t = time, value = round(100*value/n, 2)) %>% 
   mutate(name = factor(name, levels = c("healthy", "precancer", "cancer", "dead"))) %>%
   ggplot(aes(x = t, y = value)) + 
   geom_smooth(aes(color = name, linetype = group), se = FALSE, linewidth = 0.5) + 
   scale_color_aaas() + 
   theme_bw() + 
-  theme(legend.position = "bottom") + 
+  theme(legend.position = "bottom", 
+        axis.title = element_text(size = 16, face = "bold"),
+        axis.text = element_text(size = 16, face = "bold"), 
+        legend.title = element_text(size = 16, face = "bold"),
+        legend.text = element_text(size = 16, face = "bold")) + 
   labs(linetype = "Vaccination age cap", 
-       x = "Age", y = "Percentage (%) of people", color = "Status") +
+       x = "Cycle #", y = "Percentage (%) of people", color = "Status") +
   guides(
     color = guide_legend(position = "top"),
     linetype  = guide_legend(position = "bottom")
   ) + 
   facet_wrap(vars(name), ncol = 1, scales = "free_y")
 
-ggsave(file.path(here(), "analysis", "2025_02_15_counts.pdf"), p, 
+ggsave(file.path(here(), "analysis", "2025_02_18_counts.pdf"), p, 
        width = 8.5,  height = 11, units = "in", device = pdf())
 
 #ggplotly(p) 
@@ -195,7 +213,7 @@ cost_40 <- cumsum(results_40%*%c(0, cost_pre, cost_can, 0))
 cost_45 <- cumsum(results_45%*%c(0, cost_pre, cost_can, 0))
 
 p_cost <- as_tibble(cbind(cost_26, cost_30, cost_35, cost_40, cost_45)) %>% 
-  mutate(time = (seq_along(cost_26) + 19)) %>% 
+  mutate(time = (seq_along(cost_26))) %>% 
   pivot_longer(cols = -c(time)) %>% 
   mutate(value = value/n) %>% 
   mutate(name_new = factor(str_split_i(name, "_", 2))) %>%
@@ -206,14 +224,18 @@ p_cost <- as_tibble(cbind(cost_26, cost_30, cost_35, cost_40, cost_45)) %>%
   geom_line(aes(color = name)) + 
   scale_color_aaas() + 
   theme_bw() + 
-  theme(legend.position = "bottom") + 
+  theme(legend.position = "bottom", 
+        axis.title = element_text(size = 16, face = "bold"),
+        axis.text = element_text(size = 16, face = "bold"), 
+        legend.title = element_text(size = 16, face = "bold"),
+        legend.text = element_text(size = 16, face = "bold")) + 
   labs(color = "Vaccination age cap", 
-       x = "Age", y = "Cost/person") +
+       x = "Cycle #", y = "Cost/person") +
   guides(
     color = guide_legend(position = "bottom")
   )
 
-ggsave(file.path(here(), "analysis", "2025_02_15_cost.pdf"), p_cost, 
+ggsave(file.path(here(), "analysis", "2025_02_18_cost.pdf"), p_cost, 
        width = 8.5,  height = 11, units = "in", device = pdf())
 
 #ggplotly(p_cost)
