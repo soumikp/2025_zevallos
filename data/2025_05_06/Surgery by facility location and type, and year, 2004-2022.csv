@@ -1,0 +1,704 @@
+"FACILITY_LOCATION_LABEL","FACILITY_TYPE_LABEL","YEAR_OF_DIAGNOSIS","total_n","yes_surgery","percent_yes"
+"East North Central","Academic/Research Program",2004,510,205,40.2
+"East North Central","Academic/Research Program",2005,579,251,43.4
+"East North Central","Academic/Research Program",2006,625,243,38.9
+"East North Central","Academic/Research Program",2007,634,252,39.7
+"East North Central","Academic/Research Program",2008,713,267,37.4
+"East North Central","Academic/Research Program",2009,657,273,41.6
+"East North Central","Academic/Research Program",2010,731,280,38.3
+"East North Central","Academic/Research Program",2011,855,310,36.3
+"East North Central","Academic/Research Program",2012,911,331,36.3
+"East North Central","Academic/Research Program",2013,944,344,36.4
+"East North Central","Academic/Research Program",2014,929,306,32.9
+"East North Central","Academic/Research Program",2015,964,323,33.5
+"East North Central","Academic/Research Program",2016,1036,340,32.8
+"East North Central","Academic/Research Program",2017,1107,396,35.8
+"East North Central","Academic/Research Program",2018,1149,385,33.5
+"East North Central","Academic/Research Program",2019,1239,438,35.4
+"East North Central","Academic/Research Program",2020,1164,364,31.3
+"East North Central","Academic/Research Program",2021,1194,358,30
+"East North Central","Academic/Research Program",2022,1147,343,29.9
+"East North Central","Community Cancer Program",2004,121,52,43
+"East North Central","Community Cancer Program",2005,125,37,29.6
+"East North Central","Community Cancer Program",2006,124,47,37.9
+"East North Central","Community Cancer Program",2007,143,62,43.4
+"East North Central","Community Cancer Program",2008,152,51,33.6
+"East North Central","Community Cancer Program",2009,139,56,40.3
+"East North Central","Community Cancer Program",2010,156,55,35.3
+"East North Central","Community Cancer Program",2011,157,45,28.7
+"East North Central","Community Cancer Program",2012,177,68,38.4
+"East North Central","Community Cancer Program",2013,191,70,36.6
+"East North Central","Community Cancer Program",2014,189,69,36.5
+"East North Central","Community Cancer Program",2015,205,72,35.1
+"East North Central","Community Cancer Program",2016,238,70,29.4
+"East North Central","Community Cancer Program",2017,257,81,31.5
+"East North Central","Community Cancer Program",2018,293,75,25.6
+"East North Central","Community Cancer Program",2019,255,59,23.1
+"East North Central","Community Cancer Program",2020,241,59,24.5
+"East North Central","Community Cancer Program",2021,287,57,19.9
+"East North Central","Community Cancer Program",2022,270,55,20.4
+"East North Central","Comprehensive Community Cancer Program",2004,284,111,39.1
+"East North Central","Comprehensive Community Cancer Program",2005,343,144,42
+"East North Central","Comprehensive Community Cancer Program",2006,377,141,37.4
+"East North Central","Comprehensive Community Cancer Program",2007,395,146,37
+"East North Central","Comprehensive Community Cancer Program",2008,388,161,41.5
+"East North Central","Comprehensive Community Cancer Program",2009,452,183,40.5
+"East North Central","Comprehensive Community Cancer Program",2010,475,168,35.4
+"East North Central","Comprehensive Community Cancer Program",2011,470,160,34
+"East North Central","Comprehensive Community Cancer Program",2012,493,171,34.7
+"East North Central","Comprehensive Community Cancer Program",2013,553,195,35.3
+"East North Central","Comprehensive Community Cancer Program",2014,561,188,33.5
+"East North Central","Comprehensive Community Cancer Program",2015,596,196,32.9
+"East North Central","Comprehensive Community Cancer Program",2016,620,197,31.8
+"East North Central","Comprehensive Community Cancer Program",2017,597,197,33
+"East North Central","Comprehensive Community Cancer Program",2018,635,164,25.8
+"East North Central","Comprehensive Community Cancer Program",2019,672,145,21.6
+"East North Central","Comprehensive Community Cancer Program",2020,661,180,27.2
+"East North Central","Comprehensive Community Cancer Program",2021,707,191,27
+"East North Central","Comprehensive Community Cancer Program",2022,630,118,18.7
+"East North Central","Integrated Network Cancer Program",2004,351,148,42.2
+"East North Central","Integrated Network Cancer Program",2005,343,118,34.4
+"East North Central","Integrated Network Cancer Program",2006,334,124,37.1
+"East North Central","Integrated Network Cancer Program",2007,357,124,34.7
+"East North Central","Integrated Network Cancer Program",2008,396,115,29
+"East North Central","Integrated Network Cancer Program",2009,451,163,36.1
+"East North Central","Integrated Network Cancer Program",2010,456,161,35.3
+"East North Central","Integrated Network Cancer Program",2011,531,201,37.9
+"East North Central","Integrated Network Cancer Program",2012,481,174,36.2
+"East North Central","Integrated Network Cancer Program",2013,507,179,35.3
+"East North Central","Integrated Network Cancer Program",2014,529,179,33.8
+"East North Central","Integrated Network Cancer Program",2015,582,184,31.6
+"East North Central","Integrated Network Cancer Program",2016,599,173,28.9
+"East North Central","Integrated Network Cancer Program",2017,617,181,29.3
+"East North Central","Integrated Network Cancer Program",2018,706,218,30.9
+"East North Central","Integrated Network Cancer Program",2019,760,235,30.9
+"East North Central","Integrated Network Cancer Program",2020,720,180,25
+"East North Central","Integrated Network Cancer Program",2021,760,175,23
+"East North Central","Integrated Network Cancer Program",2022,663,150,22.6
+"East South Central","Academic/Research Program",2004,231,71,30.7
+"East South Central","Academic/Research Program",2005,252,75,29.8
+"East South Central","Academic/Research Program",2006,284,108,38
+"East South Central","Academic/Research Program",2007,256,89,34.8
+"East South Central","Academic/Research Program",2008,269,101,37.5
+"East South Central","Academic/Research Program",2009,289,105,36.3
+"East South Central","Academic/Research Program",2010,346,133,38.4
+"East South Central","Academic/Research Program",2011,344,143,41.6
+"East South Central","Academic/Research Program",2012,404,151,37.4
+"East South Central","Academic/Research Program",2013,413,169,40.9
+"East South Central","Academic/Research Program",2014,436,165,37.8
+"East South Central","Academic/Research Program",2015,422,141,33.4
+"East South Central","Academic/Research Program",2016,435,141,32.4
+"East South Central","Academic/Research Program",2017,453,149,32.9
+"East South Central","Academic/Research Program",2018,445,166,37.3
+"East South Central","Academic/Research Program",2019,467,182,39
+"East South Central","Academic/Research Program",2020,424,147,34.7
+"East South Central","Academic/Research Program",2021,454,162,35.7
+"East South Central","Academic/Research Program",2022,420,150,35.7
+"East South Central","Community Cancer Program",2004,16,5,31.2
+"East South Central","Community Cancer Program",2005,34,10,29.4
+"East South Central","Community Cancer Program",2006,37,16,43.2
+"East South Central","Community Cancer Program",2007,46,18,39.1
+"East South Central","Community Cancer Program",2008,52,22,42.3
+"East South Central","Community Cancer Program",2009,59,25,42.4
+"East South Central","Community Cancer Program",2010,67,28,41.8
+"East South Central","Community Cancer Program",2011,63,20,31.7
+"East South Central","Community Cancer Program",2012,65,23,35.4
+"East South Central","Community Cancer Program",2013,64,25,39.1
+"East South Central","Community Cancer Program",2014,80,30,37.5
+"East South Central","Community Cancer Program",2015,86,30,34.9
+"East South Central","Community Cancer Program",2016,93,28,30.1
+"East South Central","Community Cancer Program",2017,87,31,35.6
+"East South Central","Community Cancer Program",2018,108,31,28.7
+"East South Central","Community Cancer Program",2019,114,30,26.3
+"East South Central","Community Cancer Program",2020,97,17,17.5
+"East South Central","Community Cancer Program",2021,104,18,17.3
+"East South Central","Community Cancer Program",2022,89,25,28.1
+"East South Central","Comprehensive Community Cancer Program",2004,177,75,42.4
+"East South Central","Comprehensive Community Cancer Program",2005,220,97,44.1
+"East South Central","Comprehensive Community Cancer Program",2006,239,80,33.5
+"East South Central","Comprehensive Community Cancer Program",2007,284,116,40.8
+"East South Central","Comprehensive Community Cancer Program",2008,304,111,36.5
+"East South Central","Comprehensive Community Cancer Program",2009,333,109,32.7
+"East South Central","Comprehensive Community Cancer Program",2010,314,107,34.1
+"East South Central","Comprehensive Community Cancer Program",2011,352,134,38.1
+"East South Central","Comprehensive Community Cancer Program",2012,336,111,33
+"East South Central","Comprehensive Community Cancer Program",2013,387,126,32.6
+"East South Central","Comprehensive Community Cancer Program",2014,400,126,31.5
+"East South Central","Comprehensive Community Cancer Program",2015,426,129,30.3
+"East South Central","Comprehensive Community Cancer Program",2016,467,152,32.5
+"East South Central","Comprehensive Community Cancer Program",2017,448,121,27
+"East South Central","Comprehensive Community Cancer Program",2018,460,118,25.7
+"East South Central","Comprehensive Community Cancer Program",2019,479,115,24
+"East South Central","Comprehensive Community Cancer Program",2020,451,100,22.2
+"East South Central","Comprehensive Community Cancer Program",2021,507,109,21.5
+"East South Central","Comprehensive Community Cancer Program",2022,461,90,19.5
+"East South Central","Integrated Network Cancer Program",2004,75,40,53.3
+"East South Central","Integrated Network Cancer Program",2005,73,34,46.6
+"East South Central","Integrated Network Cancer Program",2006,65,32,49.2
+"East South Central","Integrated Network Cancer Program",2007,63,26,41.3
+"East South Central","Integrated Network Cancer Program",2008,83,33,39.8
+"East South Central","Integrated Network Cancer Program",2009,77,29,37.7
+"East South Central","Integrated Network Cancer Program",2010,87,34,39.1
+"East South Central","Integrated Network Cancer Program",2011,105,37,35.2
+"East South Central","Integrated Network Cancer Program",2012,98,36,36.7
+"East South Central","Integrated Network Cancer Program",2013,115,27,23.5
+"East South Central","Integrated Network Cancer Program",2014,109,33,30.3
+"East South Central","Integrated Network Cancer Program",2015,142,32,22.5
+"East South Central","Integrated Network Cancer Program",2016,119,34,28.6
+"East South Central","Integrated Network Cancer Program",2017,130,36,27.7
+"East South Central","Integrated Network Cancer Program",2018,159,36,22.6
+"East South Central","Integrated Network Cancer Program",2019,178,37,20.8
+"East South Central","Integrated Network Cancer Program",2020,160,46,28.8
+"East South Central","Integrated Network Cancer Program",2021,212,46,21.7
+"East South Central","Integrated Network Cancer Program",2022,197,46,23.4
+"Middle Atlantic","Academic/Research Program",2004,519,167,32.2
+"Middle Atlantic","Academic/Research Program",2005,564,168,29.8
+"Middle Atlantic","Academic/Research Program",2006,585,189,32.3
+"Middle Atlantic","Academic/Research Program",2007,641,188,29.3
+"Middle Atlantic","Academic/Research Program",2008,673,216,32.1
+"Middle Atlantic","Academic/Research Program",2009,905,326,36
+"Middle Atlantic","Academic/Research Program",2010,873,354,40.5
+"Middle Atlantic","Academic/Research Program",2011,995,415,41.7
+"Middle Atlantic","Academic/Research Program",2012,1014,477,47
+"Middle Atlantic","Academic/Research Program",2013,1062,492,46.3
+"Middle Atlantic","Academic/Research Program",2014,1122,510,45.5
+"Middle Atlantic","Academic/Research Program",2015,1244,567,45.6
+"Middle Atlantic","Academic/Research Program",2016,1341,570,42.5
+"Middle Atlantic","Academic/Research Program",2017,1373,570,41.5
+"Middle Atlantic","Academic/Research Program",2018,1508,611,40.5
+"Middle Atlantic","Academic/Research Program",2019,1577,663,42
+"Middle Atlantic","Academic/Research Program",2020,1421,551,38.8
+"Middle Atlantic","Academic/Research Program",2021,1404,475,33.8
+"Middle Atlantic","Academic/Research Program",2022,1427,465,32.6
+"Middle Atlantic","Community Cancer Program",2004,59,13,22
+"Middle Atlantic","Community Cancer Program",2005,45,16,35.6
+"Middle Atlantic","Community Cancer Program",2006,67,22,32.8
+"Middle Atlantic","Community Cancer Program",2007,56,16,28.6
+"Middle Atlantic","Community Cancer Program",2008,57,23,40.4
+"Middle Atlantic","Community Cancer Program",2009,56,18,32.1
+"Middle Atlantic","Community Cancer Program",2010,66,16,24.2
+"Middle Atlantic","Community Cancer Program",2011,64,30,46.9
+"Middle Atlantic","Community Cancer Program",2012,63,15,23.8
+"Middle Atlantic","Community Cancer Program",2013,62,25,40.3
+"Middle Atlantic","Community Cancer Program",2014,59,9,15.3
+"Middle Atlantic","Community Cancer Program",2015,70,13,18.6
+"Middle Atlantic","Community Cancer Program",2016,83,26,31.3
+"Middle Atlantic","Community Cancer Program",2017,64,19,29.7
+"Middle Atlantic","Community Cancer Program",2018,76,19,25
+"Middle Atlantic","Community Cancer Program",2019,84,20,23.8
+"Middle Atlantic","Community Cancer Program",2020,79,17,21.5
+"Middle Atlantic","Community Cancer Program",2021,56,15,26.8
+"Middle Atlantic","Community Cancer Program",2022,53,4,7.5
+"Middle Atlantic","Comprehensive Community Cancer Program",2004,264,100,37.9
+"Middle Atlantic","Comprehensive Community Cancer Program",2005,283,120,42.4
+"Middle Atlantic","Comprehensive Community Cancer Program",2006,320,95,29.7
+"Middle Atlantic","Comprehensive Community Cancer Program",2007,329,101,30.7
+"Middle Atlantic","Comprehensive Community Cancer Program",2008,314,102,32.5
+"Middle Atlantic","Comprehensive Community Cancer Program",2009,340,100,29.4
+"Middle Atlantic","Comprehensive Community Cancer Program",2010,361,109,30.2
+"Middle Atlantic","Comprehensive Community Cancer Program",2011,397,123,31
+"Middle Atlantic","Comprehensive Community Cancer Program",2012,381,120,31.5
+"Middle Atlantic","Comprehensive Community Cancer Program",2013,395,104,26.3
+"Middle Atlantic","Comprehensive Community Cancer Program",2014,411,125,30.4
+"Middle Atlantic","Comprehensive Community Cancer Program",2015,389,106,27.2
+"Middle Atlantic","Comprehensive Community Cancer Program",2016,411,100,24.3
+"Middle Atlantic","Comprehensive Community Cancer Program",2017,463,127,27.4
+"Middle Atlantic","Comprehensive Community Cancer Program",2018,463,121,26.1
+"Middle Atlantic","Comprehensive Community Cancer Program",2019,481,134,27.9
+"Middle Atlantic","Comprehensive Community Cancer Program",2020,452,116,25.7
+"Middle Atlantic","Comprehensive Community Cancer Program",2021,507,121,23.9
+"Middle Atlantic","Comprehensive Community Cancer Program",2022,523,133,25.4
+"Middle Atlantic","Integrated Network Cancer Program",2004,125,33,26.4
+"Middle Atlantic","Integrated Network Cancer Program",2005,140,43,30.7
+"Middle Atlantic","Integrated Network Cancer Program",2006,153,49,32
+"Middle Atlantic","Integrated Network Cancer Program",2007,172,51,29.7
+"Middle Atlantic","Integrated Network Cancer Program",2008,179,54,30.2
+"Middle Atlantic","Integrated Network Cancer Program",2009,189,47,24.9
+"Middle Atlantic","Integrated Network Cancer Program",2010,190,47,24.7
+"Middle Atlantic","Integrated Network Cancer Program",2011,202,59,29.2
+"Middle Atlantic","Integrated Network Cancer Program",2012,199,58,29.1
+"Middle Atlantic","Integrated Network Cancer Program",2013,195,59,30.3
+"Middle Atlantic","Integrated Network Cancer Program",2014,207,69,33.3
+"Middle Atlantic","Integrated Network Cancer Program",2015,171,60,35.1
+"Middle Atlantic","Integrated Network Cancer Program",2016,200,71,35.5
+"Middle Atlantic","Integrated Network Cancer Program",2017,203,63,31
+"Middle Atlantic","Integrated Network Cancer Program",2018,237,94,39.7
+"Middle Atlantic","Integrated Network Cancer Program",2019,234,98,41.9
+"Middle Atlantic","Integrated Network Cancer Program",2020,238,76,31.9
+"Middle Atlantic","Integrated Network Cancer Program",2021,218,70,32.1
+"Middle Atlantic","Integrated Network Cancer Program",2022,195,69,35.4
+"Mountain","Academic/Research Program",2004,86,54,62.8
+"Mountain","Academic/Research Program",2005,74,39,52.7
+"Mountain","Academic/Research Program",2006,92,53,57.6
+"Mountain","Academic/Research Program",2007,94,51,54.3
+"Mountain","Academic/Research Program",2008,111,55,49.5
+"Mountain","Academic/Research Program",2009,120,59,49.2
+"Mountain","Academic/Research Program",2010,138,64,46.4
+"Mountain","Academic/Research Program",2011,148,78,52.7
+"Mountain","Academic/Research Program",2012,149,71,47.7
+"Mountain","Academic/Research Program",2013,133,72,54.1
+"Mountain","Academic/Research Program",2014,155,72,46.5
+"Mountain","Academic/Research Program",2015,177,72,40.7
+"Mountain","Academic/Research Program",2016,199,85,42.7
+"Mountain","Academic/Research Program",2017,217,103,47.5
+"Mountain","Academic/Research Program",2018,198,112,56.6
+"Mountain","Academic/Research Program",2019,190,107,56.3
+"Mountain","Academic/Research Program",2020,228,113,49.6
+"Mountain","Academic/Research Program",2021,212,100,47.2
+"Mountain","Academic/Research Program",2022,225,110,48.9
+"Mountain","Community Cancer Program",2004,1,1,100
+"Mountain","Community Cancer Program",2005,7,6,85.7
+"Mountain","Community Cancer Program",2006,7,4,57.1
+"Mountain","Community Cancer Program",2007,12,5,41.7
+"Mountain","Community Cancer Program",2008,10,3,30
+"Mountain","Community Cancer Program",2009,13,6,46.2
+"Mountain","Community Cancer Program",2010,15,9,60
+"Mountain","Community Cancer Program",2011,16,9,56.2
+"Mountain","Community Cancer Program",2012,16,5,31.2
+"Mountain","Community Cancer Program",2013,19,6,31.6
+"Mountain","Community Cancer Program",2014,23,9,39.1
+"Mountain","Community Cancer Program",2015,28,8,28.6
+"Mountain","Community Cancer Program",2016,39,10,25.6
+"Mountain","Community Cancer Program",2017,44,10,22.7
+"Mountain","Community Cancer Program",2018,61,20,32.8
+"Mountain","Community Cancer Program",2019,58,16,27.6
+"Mountain","Community Cancer Program",2020,59,21,35.6
+"Mountain","Community Cancer Program",2021,44,12,27.3
+"Mountain","Community Cancer Program",2022,43,9,20.9
+"Mountain","Comprehensive Community Cancer Program",2004,126,53,42.1
+"Mountain","Comprehensive Community Cancer Program",2005,157,81,51.6
+"Mountain","Comprehensive Community Cancer Program",2006,142,57,40.1
+"Mountain","Comprehensive Community Cancer Program",2007,175,65,37.1
+"Mountain","Comprehensive Community Cancer Program",2008,192,70,36.5
+"Mountain","Comprehensive Community Cancer Program",2009,209,77,36.8
+"Mountain","Comprehensive Community Cancer Program",2010,206,84,40.8
+"Mountain","Comprehensive Community Cancer Program",2011,203,66,32.5
+"Mountain","Comprehensive Community Cancer Program",2012,259,84,32.4
+"Mountain","Comprehensive Community Cancer Program",2013,221,75,33.9
+"Mountain","Comprehensive Community Cancer Program",2014,276,90,32.6
+"Mountain","Comprehensive Community Cancer Program",2015,266,82,30.8
+"Mountain","Comprehensive Community Cancer Program",2016,276,79,28.6
+"Mountain","Comprehensive Community Cancer Program",2017,275,75,27.3
+"Mountain","Comprehensive Community Cancer Program",2018,292,80,27.4
+"Mountain","Comprehensive Community Cancer Program",2019,321,90,28
+"Mountain","Comprehensive Community Cancer Program",2020,358,97,27.1
+"Mountain","Comprehensive Community Cancer Program",2021,347,76,21.9
+"Mountain","Comprehensive Community Cancer Program",2022,310,77,24.8
+"Mountain","Integrated Network Cancer Program",2004,88,31,35.2
+"Mountain","Integrated Network Cancer Program",2005,106,42,39.6
+"Mountain","Integrated Network Cancer Program",2006,106,56,52.8
+"Mountain","Integrated Network Cancer Program",2007,99,38,38.4
+"Mountain","Integrated Network Cancer Program",2008,132,56,42.4
+"Mountain","Integrated Network Cancer Program",2009,125,49,39.2
+"Mountain","Integrated Network Cancer Program",2010,130,50,38.5
+"Mountain","Integrated Network Cancer Program",2011,152,56,36.8
+"Mountain","Integrated Network Cancer Program",2012,171,77,45
+"Mountain","Integrated Network Cancer Program",2013,174,78,44.8
+"Mountain","Integrated Network Cancer Program",2014,183,81,44.3
+"Mountain","Integrated Network Cancer Program",2015,232,103,44.4
+"Mountain","Integrated Network Cancer Program",2016,208,89,42.8
+"Mountain","Integrated Network Cancer Program",2017,235,89,37.9
+"Mountain","Integrated Network Cancer Program",2018,241,98,40.7
+"Mountain","Integrated Network Cancer Program",2019,259,90,34.7
+"Mountain","Integrated Network Cancer Program",2020,193,50,25.9
+"Mountain","Integrated Network Cancer Program",2021,190,59,31.1
+"Mountain","Integrated Network Cancer Program",2022,181,47,26
+"New England","Academic/Research Program",2004,147,65,44.2
+"New England","Academic/Research Program",2005,166,57,34.3
+"New England","Academic/Research Program",2006,172,63,36.6
+"New England","Academic/Research Program",2007,165,67,40.6
+"New England","Academic/Research Program",2008,201,65,32.3
+"New England","Academic/Research Program",2009,197,64,32.5
+"New England","Academic/Research Program",2010,218,91,41.7
+"New England","Academic/Research Program",2011,228,77,33.8
+"New England","Academic/Research Program",2012,250,101,40.4
+"New England","Academic/Research Program",2013,358,136,38
+"New England","Academic/Research Program",2014,397,145,36.5
+"New England","Academic/Research Program",2015,416,138,33.2
+"New England","Academic/Research Program",2016,382,133,34.8
+"New England","Academic/Research Program",2017,426,148,34.7
+"New England","Academic/Research Program",2018,446,145,32.5
+"New England","Academic/Research Program",2019,462,135,29.2
+"New England","Academic/Research Program",2020,481,140,29.1
+"New England","Academic/Research Program",2021,460,133,28.9
+"New England","Academic/Research Program",2022,368,108,29.3
+"New England","Community Cancer Program",2004,32,17,53.1
+"New England","Community Cancer Program",2005,43,15,34.9
+"New England","Community Cancer Program",2006,48,12,25
+"New England","Community Cancer Program",2007,35,5,14.3
+"New England","Community Cancer Program",2008,32,10,31.2
+"New England","Community Cancer Program",2009,57,12,21.1
+"New England","Community Cancer Program",2010,36,10,27.8
+"New England","Community Cancer Program",2011,46,16,34.8
+"New England","Community Cancer Program",2012,45,9,20
+"New England","Community Cancer Program",2013,52,14,26.9
+"New England","Community Cancer Program",2014,49,12,24.5
+"New England","Community Cancer Program",2015,44,11,25
+"New England","Community Cancer Program",2016,58,16,27.6
+"New England","Community Cancer Program",2017,60,21,35
+"New England","Community Cancer Program",2018,61,16,26.2
+"New England","Community Cancer Program",2019,54,15,27.8
+"New England","Community Cancer Program",2020,64,15,23.4
+"New England","Community Cancer Program",2021,69,17,24.6
+"New England","Community Cancer Program",2022,57,13,22.8
+"New England","Comprehensive Community Cancer Program",2004,190,55,28.9
+"New England","Comprehensive Community Cancer Program",2005,192,72,37.5
+"New England","Comprehensive Community Cancer Program",2006,213,75,35.2
+"New England","Comprehensive Community Cancer Program",2007,197,60,30.5
+"New England","Comprehensive Community Cancer Program",2008,204,64,31.4
+"New England","Comprehensive Community Cancer Program",2009,203,59,29.1
+"New England","Comprehensive Community Cancer Program",2010,226,77,34.1
+"New England","Comprehensive Community Cancer Program",2011,239,81,33.9
+"New England","Comprehensive Community Cancer Program",2012,232,76,32.8
+"New England","Comprehensive Community Cancer Program",2013,244,81,33.2
+"New England","Comprehensive Community Cancer Program",2014,236,77,32.6
+"New England","Comprehensive Community Cancer Program",2015,265,74,27.9
+"New England","Comprehensive Community Cancer Program",2016,243,94,38.7
+"New England","Comprehensive Community Cancer Program",2017,295,96,32.5
+"New England","Comprehensive Community Cancer Program",2018,237,65,27.4
+"New England","Comprehensive Community Cancer Program",2019,287,87,30.3
+"New England","Comprehensive Community Cancer Program",2020,311,73,23.5
+"New England","Comprehensive Community Cancer Program",2021,270,52,19.3
+"New England","Comprehensive Community Cancer Program",2022,241,50,20.7
+"New England","Integrated Network Cancer Program",2004,71,19,26.8
+"New England","Integrated Network Cancer Program",2005,67,18,26.9
+"New England","Integrated Network Cancer Program",2006,51,16,31.4
+"New England","Integrated Network Cancer Program",2007,77,16,20.8
+"New England","Integrated Network Cancer Program",2008,94,29,30.9
+"New England","Integrated Network Cancer Program",2009,66,21,31.8
+"New England","Integrated Network Cancer Program",2010,77,15,19.5
+"New England","Integrated Network Cancer Program",2011,92,19,20.7
+"New England","Integrated Network Cancer Program",2012,97,24,24.7
+"New England","Integrated Network Cancer Program",2013,90,26,28.9
+"New England","Integrated Network Cancer Program",2014,112,40,35.7
+"New England","Integrated Network Cancer Program",2015,111,35,31.5
+"New England","Integrated Network Cancer Program",2016,111,32,28.8
+"New England","Integrated Network Cancer Program",2017,130,44,33.8
+"New England","Integrated Network Cancer Program",2018,171,62,36.3
+"New England","Integrated Network Cancer Program",2019,145,55,37.9
+"New England","Integrated Network Cancer Program",2020,143,43,30.1
+"New England","Integrated Network Cancer Program",2021,168,46,27.4
+"New England","Integrated Network Cancer Program",2022,159,35,22
+"Pacific","Academic/Research Program",2004,300,115,38.3
+"Pacific","Academic/Research Program",2005,300,109,36.3
+"Pacific","Academic/Research Program",2006,345,142,41.2
+"Pacific","Academic/Research Program",2007,341,121,35.5
+"Pacific","Academic/Research Program",2008,356,117,32.9
+"Pacific","Academic/Research Program",2009,380,134,35.3
+"Pacific","Academic/Research Program",2010,408,164,40.2
+"Pacific","Academic/Research Program",2011,402,187,46.5
+"Pacific","Academic/Research Program",2012,474,206,43.5
+"Pacific","Academic/Research Program",2013,505,215,42.6
+"Pacific","Academic/Research Program",2014,468,199,42.5
+"Pacific","Academic/Research Program",2015,589,256,43.5
+"Pacific","Academic/Research Program",2016,590,239,40.5
+"Pacific","Academic/Research Program",2017,574,205,35.7
+"Pacific","Academic/Research Program",2018,635,236,37.2
+"Pacific","Academic/Research Program",2019,723,296,40.9
+"Pacific","Academic/Research Program",2020,663,250,37.7
+"Pacific","Academic/Research Program",2021,749,276,36.8
+"Pacific","Academic/Research Program",2022,687,236,34.4
+"Pacific","Community Cancer Program",2004,84,25,29.8
+"Pacific","Community Cancer Program",2005,63,20,31.7
+"Pacific","Community Cancer Program",2006,70,22,31.4
+"Pacific","Community Cancer Program",2007,91,30,33
+"Pacific","Community Cancer Program",2008,102,40,39.2
+"Pacific","Community Cancer Program",2009,110,36,32.7
+"Pacific","Community Cancer Program",2010,101,28,27.7
+"Pacific","Community Cancer Program",2011,106,27,25.5
+"Pacific","Community Cancer Program",2012,114,32,28.1
+"Pacific","Community Cancer Program",2013,111,21,18.9
+"Pacific","Community Cancer Program",2014,130,42,32.3
+"Pacific","Community Cancer Program",2015,135,33,24.4
+"Pacific","Community Cancer Program",2016,148,35,23.6
+"Pacific","Community Cancer Program",2017,146,22,15.1
+"Pacific","Community Cancer Program",2018,140,32,22.9
+"Pacific","Community Cancer Program",2019,175,35,20
+"Pacific","Community Cancer Program",2020,156,24,15.4
+"Pacific","Community Cancer Program",2021,138,14,10.1
+"Pacific","Community Cancer Program",2022,144,29,20.1
+"Pacific","Comprehensive Community Cancer Program",2004,339,131,38.6
+"Pacific","Comprehensive Community Cancer Program",2005,324,117,36.1
+"Pacific","Comprehensive Community Cancer Program",2006,316,111,35.1
+"Pacific","Comprehensive Community Cancer Program",2007,388,133,34.3
+"Pacific","Comprehensive Community Cancer Program",2008,426,128,30
+"Pacific","Comprehensive Community Cancer Program",2009,396,96,24.2
+"Pacific","Comprehensive Community Cancer Program",2010,431,157,36.4
+"Pacific","Comprehensive Community Cancer Program",2011,443,142,32.1
+"Pacific","Comprehensive Community Cancer Program",2012,462,164,35.5
+"Pacific","Comprehensive Community Cancer Program",2013,609,206,33.8
+"Pacific","Comprehensive Community Cancer Program",2014,682,245,35.9
+"Pacific","Comprehensive Community Cancer Program",2015,663,204,30.8
+"Pacific","Comprehensive Community Cancer Program",2016,775,227,29.3
+"Pacific","Comprehensive Community Cancer Program",2017,737,202,27.4
+"Pacific","Comprehensive Community Cancer Program",2018,795,230,28.9
+"Pacific","Comprehensive Community Cancer Program",2019,792,203,25.6
+"Pacific","Comprehensive Community Cancer Program",2020,781,183,23.4
+"Pacific","Comprehensive Community Cancer Program",2021,795,166,20.9
+"Pacific","Comprehensive Community Cancer Program",2022,751,150,20
+"Pacific","Integrated Network Cancer Program",2004,153,43,28.1
+"Pacific","Integrated Network Cancer Program",2005,143,35,24.5
+"Pacific","Integrated Network Cancer Program",2006,185,52,28.1
+"Pacific","Integrated Network Cancer Program",2007,194,59,30.4
+"Pacific","Integrated Network Cancer Program",2008,204,52,25.5
+"Pacific","Integrated Network Cancer Program",2009,198,62,31.3
+"Pacific","Integrated Network Cancer Program",2010,216,78,36.1
+"Pacific","Integrated Network Cancer Program",2011,229,85,37.1
+"Pacific","Integrated Network Cancer Program",2012,243,80,32.9
+"Pacific","Integrated Network Cancer Program",2013,243,90,37
+"Pacific","Integrated Network Cancer Program",2014,274,98,35.8
+"Pacific","Integrated Network Cancer Program",2015,259,121,46.7
+"Pacific","Integrated Network Cancer Program",2016,235,84,35.7
+"Pacific","Integrated Network Cancer Program",2017,256,96,37.5
+"Pacific","Integrated Network Cancer Program",2018,270,88,32.6
+"Pacific","Integrated Network Cancer Program",2019,256,75,29.3
+"Pacific","Integrated Network Cancer Program",2020,260,76,29.2
+"Pacific","Integrated Network Cancer Program",2021,247,66,26.7
+"Pacific","Integrated Network Cancer Program",2022,210,74,35.2
+"South Atlantic","Academic/Research Program",2004,664,256,38.6
+"South Atlantic","Academic/Research Program",2005,705,237,33.6
+"South Atlantic","Academic/Research Program",2006,668,209,31.3
+"South Atlantic","Academic/Research Program",2007,768,272,35.4
+"South Atlantic","Academic/Research Program",2008,794,262,33
+"South Atlantic","Academic/Research Program",2009,883,277,31.4
+"South Atlantic","Academic/Research Program",2010,926,343,37
+"South Atlantic","Academic/Research Program",2011,939,338,36
+"South Atlantic","Academic/Research Program",2012,1025,386,37.7
+"South Atlantic","Academic/Research Program",2013,1106,444,40.1
+"South Atlantic","Academic/Research Program",2014,1194,442,37
+"South Atlantic","Academic/Research Program",2015,1239,452,36.5
+"South Atlantic","Academic/Research Program",2016,1362,494,36.3
+"South Atlantic","Academic/Research Program",2017,1583,598,37.8
+"South Atlantic","Academic/Research Program",2018,1487,570,38.3
+"South Atlantic","Academic/Research Program",2019,1635,624,38.2
+"South Atlantic","Academic/Research Program",2020,1507,537,35.6
+"South Atlantic","Academic/Research Program",2021,1587,584,36.8
+"South Atlantic","Academic/Research Program",2022,1369,509,37.2
+"South Atlantic","Community Cancer Program",2004,75,24,32
+"South Atlantic","Community Cancer Program",2005,71,25,35.2
+"South Atlantic","Community Cancer Program",2006,83,24,28.9
+"South Atlantic","Community Cancer Program",2007,85,27,31.8
+"South Atlantic","Community Cancer Program",2008,101,34,33.7
+"South Atlantic","Community Cancer Program",2009,85,30,35.3
+"South Atlantic","Community Cancer Program",2010,96,38,39.6
+"South Atlantic","Community Cancer Program",2011,123,36,29.3
+"South Atlantic","Community Cancer Program",2012,129,39,30.2
+"South Atlantic","Community Cancer Program",2013,157,43,27.4
+"South Atlantic","Community Cancer Program",2014,194,48,24.7
+"South Atlantic","Community Cancer Program",2015,145,34,23.4
+"South Atlantic","Community Cancer Program",2016,152,43,28.3
+"South Atlantic","Community Cancer Program",2017,155,41,26.5
+"South Atlantic","Community Cancer Program",2018,157,28,17.8
+"South Atlantic","Community Cancer Program",2019,201,50,24.9
+"South Atlantic","Community Cancer Program",2020,196,47,24
+"South Atlantic","Community Cancer Program",2021,193,46,23.8
+"South Atlantic","Community Cancer Program",2022,157,32,20.4
+"South Atlantic","Comprehensive Community Cancer Program",2004,613,221,36.1
+"South Atlantic","Comprehensive Community Cancer Program",2005,707,217,30.7
+"South Atlantic","Comprehensive Community Cancer Program",2006,712,228,32
+"South Atlantic","Comprehensive Community Cancer Program",2007,756,257,34
+"South Atlantic","Comprehensive Community Cancer Program",2008,815,255,31.3
+"South Atlantic","Comprehensive Community Cancer Program",2009,883,228,25.8
+"South Atlantic","Comprehensive Community Cancer Program",2010,845,206,24.4
+"South Atlantic","Comprehensive Community Cancer Program",2011,917,279,30.4
+"South Atlantic","Comprehensive Community Cancer Program",2012,969,270,27.9
+"South Atlantic","Comprehensive Community Cancer Program",2013,1040,285,27.4
+"South Atlantic","Comprehensive Community Cancer Program",2014,1080,247,22.9
+"South Atlantic","Comprehensive Community Cancer Program",2015,1126,286,25.4
+"South Atlantic","Comprehensive Community Cancer Program",2016,1233,305,24.7
+"South Atlantic","Comprehensive Community Cancer Program",2017,1231,301,24.5
+"South Atlantic","Comprehensive Community Cancer Program",2018,1258,272,21.6
+"South Atlantic","Comprehensive Community Cancer Program",2019,1291,292,22.6
+"South Atlantic","Comprehensive Community Cancer Program",2020,1238,198,16
+"South Atlantic","Comprehensive Community Cancer Program",2021,1375,261,19
+"South Atlantic","Comprehensive Community Cancer Program",2022,1200,209,17.4
+"South Atlantic","Integrated Network Cancer Program",2004,363,144,39.7
+"South Atlantic","Integrated Network Cancer Program",2005,372,113,30.4
+"South Atlantic","Integrated Network Cancer Program",2006,391,129,33
+"South Atlantic","Integrated Network Cancer Program",2007,437,136,31.1
+"South Atlantic","Integrated Network Cancer Program",2008,460,134,29.1
+"South Atlantic","Integrated Network Cancer Program",2009,541,149,27.5
+"South Atlantic","Integrated Network Cancer Program",2010,530,154,29.1
+"South Atlantic","Integrated Network Cancer Program",2011,547,160,29.3
+"South Atlantic","Integrated Network Cancer Program",2012,606,160,26.4
+"South Atlantic","Integrated Network Cancer Program",2013,633,192,30.3
+"South Atlantic","Integrated Network Cancer Program",2014,644,177,27.5
+"South Atlantic","Integrated Network Cancer Program",2015,697,161,23.1
+"South Atlantic","Integrated Network Cancer Program",2016,682,160,23.5
+"South Atlantic","Integrated Network Cancer Program",2017,711,161,22.6
+"South Atlantic","Integrated Network Cancer Program",2018,766,188,24.5
+"South Atlantic","Integrated Network Cancer Program",2019,822,205,24.9
+"South Atlantic","Integrated Network Cancer Program",2020,839,180,21.5
+"South Atlantic","Integrated Network Cancer Program",2021,860,220,25.6
+"South Atlantic","Integrated Network Cancer Program",2022,800,158,19.8
+"Unknown","Unknown",2004,166,99,59.6
+"Unknown","Unknown",2005,159,98,61.6
+"Unknown","Unknown",2006,151,82,54.3
+"Unknown","Unknown",2007,174,91,52.3
+"Unknown","Unknown",2008,188,103,54.8
+"Unknown","Unknown",2009,177,88,49.7
+"Unknown","Unknown",2010,179,89,49.7
+"Unknown","Unknown",2011,164,86,52.4
+"Unknown","Unknown",2012,157,84,53.5
+"Unknown","Unknown",2013,141,78,55.3
+"Unknown","Unknown",2014,145,79,54.5
+"Unknown","Unknown",2015,148,75,50.7
+"Unknown","Unknown",2016,170,86,50.6
+"Unknown","Unknown",2017,176,89,50.6
+"Unknown","Unknown",2018,147,73,49.7
+"Unknown","Unknown",2019,188,83,44.1
+"Unknown","Unknown",2020,167,76,45.5
+"Unknown","Unknown",2021,126,61,48.4
+"Unknown","Unknown",2022,125,52,41.6
+"West North Central","Academic/Research Program",2004,246,137,55.7
+"West North Central","Academic/Research Program",2005,283,135,47.7
+"West North Central","Academic/Research Program",2006,306,144,47.1
+"West North Central","Academic/Research Program",2007,353,174,49.3
+"West North Central","Academic/Research Program",2008,391,182,46.5
+"West North Central","Academic/Research Program",2009,394,189,48
+"West North Central","Academic/Research Program",2010,425,216,50.8
+"West North Central","Academic/Research Program",2011,438,231,52.7
+"West North Central","Academic/Research Program",2012,482,241,50
+"West North Central","Academic/Research Program",2013,526,277,52.7
+"West North Central","Academic/Research Program",2014,554,278,50.2
+"West North Central","Academic/Research Program",2015,539,270,50.1
+"West North Central","Academic/Research Program",2016,611,276,45.2
+"West North Central","Academic/Research Program",2017,612,319,52.1
+"West North Central","Academic/Research Program",2018,663,361,54.4
+"West North Central","Academic/Research Program",2019,632,301,47.6
+"West North Central","Academic/Research Program",2020,647,310,47.9
+"West North Central","Academic/Research Program",2021,696,335,48.1
+"West North Central","Academic/Research Program",2022,514,213,41.4
+"West North Central","Community Cancer Program",2004,46,21,45.7
+"West North Central","Community Cancer Program",2005,55,29,52.7
+"West North Central","Community Cancer Program",2006,52,11,21.2
+"West North Central","Community Cancer Program",2007,54,16,29.6
+"West North Central","Community Cancer Program",2008,57,20,35.1
+"West North Central","Community Cancer Program",2009,56,20,35.7
+"West North Central","Community Cancer Program",2010,55,23,41.8
+"West North Central","Community Cancer Program",2011,77,21,27.3
+"West North Central","Community Cancer Program",2012,58,23,39.7
+"West North Central","Community Cancer Program",2013,84,36,42.9
+"West North Central","Community Cancer Program",2014,86,24,27.9
+"West North Central","Community Cancer Program",2015,84,21,25
+"West North Central","Community Cancer Program",2016,89,21,23.6
+"West North Central","Community Cancer Program",2017,89,21,23.6
+"West North Central","Community Cancer Program",2018,109,27,24.8
+"West North Central","Community Cancer Program",2019,105,22,21
+"West North Central","Community Cancer Program",2020,109,22,20.2
+"West North Central","Community Cancer Program",2021,107,13,12.1
+"West North Central","Community Cancer Program",2022,113,23,20.4
+"West North Central","Comprehensive Community Cancer Program",2004,206,107,51.9
+"West North Central","Comprehensive Community Cancer Program",2005,220,119,54.1
+"West North Central","Comprehensive Community Cancer Program",2006,216,108,50
+"West North Central","Comprehensive Community Cancer Program",2007,237,111,46.8
+"West North Central","Comprehensive Community Cancer Program",2008,290,143,49.3
+"West North Central","Comprehensive Community Cancer Program",2009,298,145,48.7
+"West North Central","Comprehensive Community Cancer Program",2010,280,129,46.1
+"West North Central","Comprehensive Community Cancer Program",2011,332,144,43.4
+"West North Central","Comprehensive Community Cancer Program",2012,314,136,43.3
+"West North Central","Comprehensive Community Cancer Program",2013,324,153,47.2
+"West North Central","Comprehensive Community Cancer Program",2014,335,144,43
+"West North Central","Comprehensive Community Cancer Program",2015,394,158,40.1
+"West North Central","Comprehensive Community Cancer Program",2016,408,158,38.7
+"West North Central","Comprehensive Community Cancer Program",2017,419,150,35.8
+"West North Central","Comprehensive Community Cancer Program",2018,398,143,35.9
+"West North Central","Comprehensive Community Cancer Program",2019,451,128,28.4
+"West North Central","Comprehensive Community Cancer Program",2020,440,137,31.1
+"West North Central","Comprehensive Community Cancer Program",2021,438,123,28.1
+"West North Central","Comprehensive Community Cancer Program",2022,411,97,23.6
+"West North Central","Integrated Network Cancer Program",2004,65,31,47.7
+"West North Central","Integrated Network Cancer Program",2005,68,38,55.9
+"West North Central","Integrated Network Cancer Program",2006,67,34,50.7
+"West North Central","Integrated Network Cancer Program",2007,98,52,53.1
+"West North Central","Integrated Network Cancer Program",2008,88,43,48.9
+"West North Central","Integrated Network Cancer Program",2009,75,36,48
+"West North Central","Integrated Network Cancer Program",2010,90,46,51.1
+"West North Central","Integrated Network Cancer Program",2011,108,44,40.7
+"West North Central","Integrated Network Cancer Program",2012,84,46,54.8
+"West North Central","Integrated Network Cancer Program",2013,75,23,30.7
+"West North Central","Integrated Network Cancer Program",2014,105,41,39
+"West North Central","Integrated Network Cancer Program",2015,76,31,40.8
+"West North Central","Integrated Network Cancer Program",2016,109,37,33.9
+"West North Central","Integrated Network Cancer Program",2017,110,31,28.2
+"West North Central","Integrated Network Cancer Program",2018,116,36,31
+"West North Central","Integrated Network Cancer Program",2019,131,40,30.5
+"West North Central","Integrated Network Cancer Program",2020,127,40,31.5
+"West North Central","Integrated Network Cancer Program",2021,144,40,27.8
+"West North Central","Integrated Network Cancer Program",2022,164,58,35.4
+"West South Central","Academic/Research Program",2004,265,57,21.5
+"West South Central","Academic/Research Program",2005,295,77,26.1
+"West South Central","Academic/Research Program",2006,365,97,26.6
+"West South Central","Academic/Research Program",2007,363,78,21.5
+"West South Central","Academic/Research Program",2008,430,88,20.5
+"West South Central","Academic/Research Program",2009,446,105,23.5
+"West South Central","Academic/Research Program",2010,411,109,26.5
+"West South Central","Academic/Research Program",2011,479,141,29.4
+"West South Central","Academic/Research Program",2012,523,115,22
+"West South Central","Academic/Research Program",2013,531,131,24.7
+"West South Central","Academic/Research Program",2014,572,147,25.7
+"West South Central","Academic/Research Program",2015,599,162,27
+"West South Central","Academic/Research Program",2016,641,191,29.8
+"West South Central","Academic/Research Program",2017,665,196,29.5
+"West South Central","Academic/Research Program",2018,747,212,28.4
+"West South Central","Academic/Research Program",2019,782,240,30.7
+"West South Central","Academic/Research Program",2020,731,209,28.6
+"West South Central","Academic/Research Program",2021,804,215,26.7
+"West South Central","Academic/Research Program",2022,712,214,30.1
+"West South Central","Community Cancer Program",2004,20,6,30
+"West South Central","Community Cancer Program",2005,21,5,23.8
+"West South Central","Community Cancer Program",2006,26,4,15.4
+"West South Central","Community Cancer Program",2007,33,10,30.3
+"West South Central","Community Cancer Program",2008,35,12,34.3
+"West South Central","Community Cancer Program",2009,39,13,33.3
+"West South Central","Community Cancer Program",2010,38,9,23.7
+"West South Central","Community Cancer Program",2011,54,14,25.9
+"West South Central","Community Cancer Program",2012,34,11,32.4
+"West South Central","Community Cancer Program",2013,45,19,42.2
+"West South Central","Community Cancer Program",2014,55,19,34.5
+"West South Central","Community Cancer Program",2015,53,14,26.4
+"West South Central","Community Cancer Program",2016,61,21,34.4
+"West South Central","Community Cancer Program",2017,74,26,35.1
+"West South Central","Community Cancer Program",2018,93,25,26.9
+"West South Central","Community Cancer Program",2019,79,19,24.1
+"West South Central","Community Cancer Program",2020,76,15,19.7
+"West South Central","Community Cancer Program",2021,72,14,19.4
+"West South Central","Community Cancer Program",2022,88,13,14.8
+"West South Central","Comprehensive Community Cancer Program",2004,184,74,40.2
+"West South Central","Comprehensive Community Cancer Program",2005,185,67,36.2
+"West South Central","Comprehensive Community Cancer Program",2006,201,68,33.8
+"West South Central","Comprehensive Community Cancer Program",2007,243,96,39.5
+"West South Central","Comprehensive Community Cancer Program",2008,238,85,35.7
+"West South Central","Comprehensive Community Cancer Program",2009,274,91,33.2
+"West South Central","Comprehensive Community Cancer Program",2010,302,104,34.4
+"West South Central","Comprehensive Community Cancer Program",2011,313,110,35.1
+"West South Central","Comprehensive Community Cancer Program",2012,323,116,35.9
+"West South Central","Comprehensive Community Cancer Program",2013,392,144,36.7
+"West South Central","Comprehensive Community Cancer Program",2014,436,133,30.5
+"West South Central","Comprehensive Community Cancer Program",2015,460,125,27.2
+"West South Central","Comprehensive Community Cancer Program",2016,432,125,28.9
+"West South Central","Comprehensive Community Cancer Program",2017,472,121,25.6
+"West South Central","Comprehensive Community Cancer Program",2018,498,125,25.1
+"West South Central","Comprehensive Community Cancer Program",2019,522,147,28.2
+"West South Central","Comprehensive Community Cancer Program",2020,534,143,26.8
+"West South Central","Comprehensive Community Cancer Program",2021,516,137,26.6
+"West South Central","Comprehensive Community Cancer Program",2022,412,105,25.5
+"West South Central","Integrated Network Cancer Program",2004,51,16,31.4
+"West South Central","Integrated Network Cancer Program",2005,45,14,31.1
+"West South Central","Integrated Network Cancer Program",2006,55,26,47.3
+"West South Central","Integrated Network Cancer Program",2007,73,30,41.1
+"West South Central","Integrated Network Cancer Program",2008,74,32,43.2
+"West South Central","Integrated Network Cancer Program",2009,96,26,27.1
+"West South Central","Integrated Network Cancer Program",2010,94,21,22.3
+"West South Central","Integrated Network Cancer Program",2011,89,23,25.8
+"West South Central","Integrated Network Cancer Program",2012,120,36,30
+"West South Central","Integrated Network Cancer Program",2013,109,40,36.7
+"West South Central","Integrated Network Cancer Program",2014,102,33,32.4
+"West South Central","Integrated Network Cancer Program",2015,109,41,37.6
+"West South Central","Integrated Network Cancer Program",2016,137,45,32.8
+"West South Central","Integrated Network Cancer Program",2017,117,32,27.4
+"West South Central","Integrated Network Cancer Program",2018,99,31,31.3
+"West South Central","Integrated Network Cancer Program",2019,118,32,27.1
+"West South Central","Integrated Network Cancer Program",2020,132,33,25
+"West South Central","Integrated Network Cancer Program",2021,125,29,23.2
+"West South Central","Integrated Network Cancer Program",2022,106,32,30.2

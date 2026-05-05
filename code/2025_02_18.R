@@ -27,9 +27,6 @@ initialize_population <- function(n, min_age, max_age) {
 # Transition rules
 update_agent <- function(agent, ageCap = 26) {
   
-  # update past history
-  agent$prior <- c(agent$prior, agent$disease_state)
-  
   # Age the agent
   agent$age <- agent$age + 1
   
@@ -40,7 +37,7 @@ update_agent <- function(agent, ageCap = 26) {
   
   # HPV infection (age-specific risk)
   if (agent$hpv_status == "none") {
-    p_infection <- ifelse(agent$age < 26, 0.05, 0.02)  # Higher risk for younger ages
+    p_infection <- 0.05  # Higher risk for younger ages
     if (agent$vaccinated) p_infection <- p_infection * 0.1  # 90% efficacy
     if (runif(1) < p_infection) agent$hpv_status <- sample(c("low_risk", "high_risk"), 1, prob = c(0.8, 0.2))
   }
@@ -66,7 +63,7 @@ update_agent <- function(agent, ageCap = 26) {
   # Death
   if (agent$disease_state == "cancer" && runif(1) < 0.2) {
     agent$disease_state <- "dead"  # Cancer → Death
-  } else if (runif(1) < 0.01) {
+  } else if (runif(1) < 0.01 | agent$age > 100) {
     agent$disease_state <- "dead"  # Background mortality
   }
   
@@ -198,10 +195,9 @@ p <- results %>%
   ) + 
   facet_wrap(vars(name), ncol = 1, scales = "free_y")
 
-ggsave(file.path(here(), "analysis", "2025_02_18_counts.pdf"), p, 
-       width = 8.5,  height = 11, units = "in", device = pdf())
+ggsave(file.path(here(), "analysis", "2025_02_18_counts.pdf"), p, width = 8.5,  height = 11, units = "in", device = pdf())
 
-#ggplotly(p) 
+ggplotly(p) 
 
 
 cost_pre <- 100
@@ -235,8 +231,7 @@ p_cost <- as_tibble(cbind(cost_26, cost_30, cost_35, cost_40, cost_45)) %>%
     color = guide_legend(position = "bottom")
   )
 
-ggsave(file.path(here(), "analysis", "2025_02_18_cost.pdf"), p_cost, 
-       width = 8.5,  height = 11, units = "in", device = pdf())
+ggsave(file.path(here(), "analysis", "2025_02_18_cost.pdf"), p_cost,  width = 8.5,  height = 11, units = "in", device = pdf())
 
-#ggplotly(p_cost)
+ggplotly(p_cost)
   

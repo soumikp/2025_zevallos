@@ -1,0 +1,28 @@
+Year,HPV_status,n_surgery,n_total,surgery_percent,,
+2013,Negative,820,2361,34.7,,When did the clinical trial reports came out?
+2014,Negative,802,2405,33.3,,"The number of robotic surgeries in the united states, not just in oropharyngeal cancer"
+2015,Negative,789,2484,31.8,,FDA for all oropharynx
+2016,Negative,744,2600,28.6,,
+2017,Negative,775,2621,29.6,,You can fit a curve  to the line and testing the decay. 
+2018,Negative,747,2619,28.5,,Area of the countries
+2019,Negative,763,2786,27.4,,Facility type
+2020,Negative,705,2728,25.8,,
+2021,Negative,634,2695,23.5,,
+2013,Positive,2403,5641,42.6,,
+2014,Positive,2602,6519,39.9,,
+2015,Positive,2805,7443,37.7,,
+2016,Positive,3034,8383,36.2,,
+2017,Positive,3337,9431,35.4,,
+2018,Positive,4061,11751,34.6,,
+2019,Positive,4391,12992,33.8,,
+2020,Positive,3819,12460,30.7,,
+2021,Positive,3607,12153,29.7,,
+2013,Unknown,1455,4792,30.4,,
+2014,Unknown,1293,4548,28.4,,
+2015,Unknown,1230,4207,29.2,,
+2016,Unknown,1199,3971,30.2,,
+2017,Unknown,1037,3505,29.6,,
+2018,Unknown,376,1406,26.7,,
+2019,Unknown,331,1226,27,,
+2020,Unknown,274,1026,26.7,,
+2021,Unknown,260,1003,25.9,,

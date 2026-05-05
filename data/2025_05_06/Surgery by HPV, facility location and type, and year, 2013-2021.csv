@@ -1,0 +1,999 @@
+"HPV_status_new","FACILITY_LOCATION_LABEL","FACILITY_TYPE_LABEL","YEAR_OF_DIAGNOSIS.f","total_n","yes_surgery","percent_yes"
+"Negative","East North Central","Academic/Research Program","2013",188,68,36.2
+"Negative","East North Central","Academic/Research Program","2014",155,51,32.9
+"Negative","East North Central","Academic/Research Program","2015",176,63,35.8
+"Negative","East North Central","Academic/Research Program","2016",186,64,34.4
+"Negative","East North Central","Academic/Research Program","2017",195,77,39.5
+"Negative","East North Central","Academic/Research Program","2018",202,63,31.2
+"Negative","East North Central","Academic/Research Program","2019",208,74,35.6
+"Negative","East North Central","Academic/Research Program","2020",214,67,31.3
+"Negative","East North Central","Academic/Research Program","2021",217,61,28.1
+"Negative","East North Central","Community Cancer Program","2013",41,15,36.6
+"Negative","East North Central","Community Cancer Program","2014",44,9,20.5
+"Negative","East North Central","Community Cancer Program","2015",38,11,28.9
+"Negative","East North Central","Community Cancer Program","2016",40,9,22.5
+"Negative","East North Central","Community Cancer Program","2017",60,16,26.7
+"Negative","East North Central","Community Cancer Program","2018",44,17,38.6
+"Negative","East North Central","Community Cancer Program","2019",51,13,25.5
+"Negative","East North Central","Community Cancer Program","2020",34,2,5.9
+"Negative","East North Central","Community Cancer Program","2021",54,7,13
+"Negative","East North Central","Comprehensive Community Cancer Program","2013",93,32,34.4
+"Negative","East North Central","Comprehensive Community Cancer Program","2014",100,27,27
+"Negative","East North Central","Comprehensive Community Cancer Program","2015",106,32,30.2
+"Negative","East North Central","Comprehensive Community Cancer Program","2016",108,22,20.4
+"Negative","East North Central","Comprehensive Community Cancer Program","2017",100,24,24
+"Negative","East North Central","Comprehensive Community Cancer Program","2018",88,12,13.6
+"Negative","East North Central","Comprehensive Community Cancer Program","2019",112,23,20.5
+"Negative","East North Central","Comprehensive Community Cancer Program","2020",100,20,20
+"Negative","East North Central","Comprehensive Community Cancer Program","2021",85,9,10.6
+"Negative","East North Central","Integrated Network Cancer Program","2013",90,27,30
+"Negative","East North Central","Integrated Network Cancer Program","2014",103,33,32
+"Negative","East North Central","Integrated Network Cancer Program","2015",121,41,33.9
+"Negative","East North Central","Integrated Network Cancer Program","2016",127,40,31.5
+"Negative","East North Central","Integrated Network Cancer Program","2017",125,26,20.8
+"Negative","East North Central","Integrated Network Cancer Program","2018",137,39,28.5
+"Negative","East North Central","Integrated Network Cancer Program","2019",142,43,30.3
+"Negative","East North Central","Integrated Network Cancer Program","2020",123,39,31.7
+"Negative","East North Central","Integrated Network Cancer Program","2021",144,26,18.1
+"Negative","East South Central","Academic/Research Program","2013",81,33,40.7
+"Negative","East South Central","Academic/Research Program","2014",84,29,34.5
+"Negative","East South Central","Academic/Research Program","2015",78,19,24.4
+"Negative","East South Central","Academic/Research Program","2016",70,22,31.4
+"Negative","East South Central","Academic/Research Program","2017",81,25,30.9
+"Negative","East South Central","Academic/Research Program","2018",81,31,38.3
+"Negative","East South Central","Academic/Research Program","2019",76,30,39.5
+"Negative","East South Central","Academic/Research Program","2020",93,30,32.3
+"Negative","East South Central","Academic/Research Program","2021",69,27,39.1
+"Negative","East South Central","Community Cancer Program","2013",7,1,14.3
+"Negative","East South Central","Community Cancer Program","2014",9,5,55.6
+"Negative","East South Central","Community Cancer Program","2015",7,3,42.9
+"Negative","East South Central","Community Cancer Program","2016",19,4,21.1
+"Negative","East South Central","Community Cancer Program","2017",7,0,0
+"Negative","East South Central","Community Cancer Program","2018",24,3,12.5
+"Negative","East South Central","Community Cancer Program","2019",17,3,17.6
+"Negative","East South Central","Community Cancer Program","2020",20,1,5
+"Negative","East South Central","Community Cancer Program","2021",18,3,16.7
+"Negative","East South Central","Comprehensive Community Cancer Program","2013",70,16,22.9
+"Negative","East South Central","Comprehensive Community Cancer Program","2014",55,13,23.6
+"Negative","East South Central","Comprehensive Community Cancer Program","2015",84,15,17.9
+"Negative","East South Central","Comprehensive Community Cancer Program","2016",78,17,21.8
+"Negative","East South Central","Comprehensive Community Cancer Program","2017",68,18,26.5
+"Negative","East South Central","Comprehensive Community Cancer Program","2018",71,14,19.7
+"Negative","East South Central","Comprehensive Community Cancer Program","2019",88,19,21.6
+"Negative","East South Central","Comprehensive Community Cancer Program","2020",73,14,19.2
+"Negative","East South Central","Comprehensive Community Cancer Program","2021",81,14,17.3
+"Negative","East South Central","Integrated Network Cancer Program","2013",25,7,28
+"Negative","East South Central","Integrated Network Cancer Program","2014",9,2,22.2
+"Negative","East South Central","Integrated Network Cancer Program","2015",20,4,20
+"Negative","East South Central","Integrated Network Cancer Program","2016",18,5,27.8
+"Negative","East South Central","Integrated Network Cancer Program","2017",19,7,36.8
+"Negative","East South Central","Integrated Network Cancer Program","2018",18,4,22.2
+"Negative","East South Central","Integrated Network Cancer Program","2019",21,3,14.3
+"Negative","East South Central","Integrated Network Cancer Program","2020",31,6,19.4
+"Negative","East South Central","Integrated Network Cancer Program","2021",27,4,14.8
+"Negative","Middle Atlantic","Academic/Research Program","2013",210,89,42.4
+"Negative","Middle Atlantic","Academic/Research Program","2014",198,84,42.4
+"Negative","Middle Atlantic","Academic/Research Program","2015",199,83,41.7
+"Negative","Middle Atlantic","Academic/Research Program","2016",227,79,34.8
+"Negative","Middle Atlantic","Academic/Research Program","2017",227,83,36.6
+"Negative","Middle Atlantic","Academic/Research Program","2018",243,72,29.6
+"Negative","Middle Atlantic","Academic/Research Program","2019",233,73,31.3
+"Negative","Middle Atlantic","Academic/Research Program","2020",232,65,28
+"Negative","Middle Atlantic","Academic/Research Program","2021",208,56,26.9
+"Negative","Middle Atlantic","Community Cancer Program","2013",11,6,54.5
+"Negative","Middle Atlantic","Community Cancer Program","2014",19,2,10.5
+"Negative","Middle Atlantic","Community Cancer Program","2015",12,2,16.7
+"Negative","Middle Atlantic","Community Cancer Program","2016",14,5,35.7
+"Negative","Middle Atlantic","Community Cancer Program","2017",17,5,29.4
+"Negative","Middle Atlantic","Community Cancer Program","2018",15,3,20
+"Negative","Middle Atlantic","Community Cancer Program","2019",16,6,37.5
+"Negative","Middle Atlantic","Community Cancer Program","2020",17,4,23.5
+"Negative","Middle Atlantic","Community Cancer Program","2021",12,3,25
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2013",85,22,25.9
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2014",110,39,35.5
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2015",94,26,27.7
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2016",84,21,25
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2017",100,21,21
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2018",91,18,19.8
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2019",86,20,23.3
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2020",74,10,13.5
+"Negative","Middle Atlantic","Comprehensive Community Cancer Program","2021",82,10,12.2
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2013",49,14,28.6
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2014",46,12,26.1
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2015",34,12,35.3
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2016",36,11,30.6
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2017",36,11,30.6
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2018",38,14,36.8
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2019",50,18,36
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2020",36,6,16.7
+"Negative","Middle Atlantic","Integrated Network Cancer Program","2021",35,7,20
+"Negative","Mountain","Academic/Research Program","2013",21,13,61.9
+"Negative","Mountain","Academic/Research Program","2014",22,10,45.5
+"Negative","Mountain","Academic/Research Program","2015",24,12,50
+"Negative","Mountain","Academic/Research Program","2016",35,12,34.3
+"Negative","Mountain","Academic/Research Program","2017",35,16,45.7
+"Negative","Mountain","Academic/Research Program","2018",24,14,58.3
+"Negative","Mountain","Academic/Research Program","2019",24,11,45.8
+"Negative","Mountain","Academic/Research Program","2020",27,13,48.1
+"Negative","Mountain","Academic/Research Program","2021",32,15,46.9
+"Negative","Mountain","Community Cancer Program","2013",3,1,33.3
+"Negative","Mountain","Community Cancer Program","2014",4,3,75
+"Negative","Mountain","Community Cancer Program","2015",4,1,25
+"Negative","Mountain","Community Cancer Program","2016",5,2,40
+"Negative","Mountain","Community Cancer Program","2017",5,2,40
+"Negative","Mountain","Community Cancer Program","2018",10,6,60
+"Negative","Mountain","Community Cancer Program","2019",8,4,50
+"Negative","Mountain","Community Cancer Program","2020",12,3,25
+"Negative","Mountain","Community Cancer Program","2021",3,1,33.3
+"Negative","Mountain","Comprehensive Community Cancer Program","2013",45,16,35.6
+"Negative","Mountain","Comprehensive Community Cancer Program","2014",52,21,40.4
+"Negative","Mountain","Comprehensive Community Cancer Program","2015",46,16,34.8
+"Negative","Mountain","Comprehensive Community Cancer Program","2016",54,14,25.9
+"Negative","Mountain","Comprehensive Community Cancer Program","2017",43,8,18.6
+"Negative","Mountain","Comprehensive Community Cancer Program","2018",44,16,36.4
+"Negative","Mountain","Comprehensive Community Cancer Program","2019",40,12,30
+"Negative","Mountain","Comprehensive Community Cancer Program","2020",42,10,23.8
+"Negative","Mountain","Comprehensive Community Cancer Program","2021",48,8,16.7
+"Negative","Mountain","Integrated Network Cancer Program","2013",37,14,37.8
+"Negative","Mountain","Integrated Network Cancer Program","2014",23,11,47.8
+"Negative","Mountain","Integrated Network Cancer Program","2015",46,19,41.3
+"Negative","Mountain","Integrated Network Cancer Program","2016",35,12,34.3
+"Negative","Mountain","Integrated Network Cancer Program","2017",28,10,35.7
+"Negative","Mountain","Integrated Network Cancer Program","2018",32,12,37.5
+"Negative","Mountain","Integrated Network Cancer Program","2019",29,10,34.5
+"Negative","Mountain","Integrated Network Cancer Program","2020",15,2,13.3
+"Negative","Mountain","Integrated Network Cancer Program","2021",22,8,36.4
+"Negative","New England","Academic/Research Program","2013",46,16,34.8
+"Negative","New England","Academic/Research Program","2014",66,27,40.9
+"Negative","New England","Academic/Research Program","2015",58,19,32.8
+"Negative","New England","Academic/Research Program","2016",79,24,30.4
+"Negative","New England","Academic/Research Program","2017",74,25,33.8
+"Negative","New England","Academic/Research Program","2018",70,24,34.3
+"Negative","New England","Academic/Research Program","2019",80,23,28.8
+"Negative","New England","Academic/Research Program","2020",81,26,32.1
+"Negative","New England","Academic/Research Program","2021",64,16,25
+"Negative","New England","Community Cancer Program","2013",5,0,0
+"Negative","New England","Community Cancer Program","2014",10,3,30
+"Negative","New England","Community Cancer Program","2015",7,0,0
+"Negative","New England","Community Cancer Program","2016",14,2,14.3
+"Negative","New England","Community Cancer Program","2017",11,1,9.1
+"Negative","New England","Community Cancer Program","2018",12,2,16.7
+"Negative","New England","Community Cancer Program","2019",9,2,22.2
+"Negative","New England","Community Cancer Program","2020",11,0,0
+"Negative","New England","Community Cancer Program","2021",8,3,37.5
+"Negative","New England","Comprehensive Community Cancer Program","2013",50,18,36
+"Negative","New England","Comprehensive Community Cancer Program","2014",57,13,22.8
+"Negative","New England","Comprehensive Community Cancer Program","2015",56,14,25
+"Negative","New England","Comprehensive Community Cancer Program","2016",37,9,24.3
+"Negative","New England","Comprehensive Community Cancer Program","2017",53,13,24.5
+"Negative","New England","Comprehensive Community Cancer Program","2018",39,7,17.9
+"Negative","New England","Comprehensive Community Cancer Program","2019",56,13,23.2
+"Negative","New England","Comprehensive Community Cancer Program","2020",59,11,18.6
+"Negative","New England","Comprehensive Community Cancer Program","2021",43,6,14
+"Negative","New England","Integrated Network Cancer Program","2013",15,2,13.3
+"Negative","New England","Integrated Network Cancer Program","2014",17,8,47.1
+"Negative","New England","Integrated Network Cancer Program","2015",20,10,50
+"Negative","New England","Integrated Network Cancer Program","2016",27,7,25.9
+"Negative","New England","Integrated Network Cancer Program","2017",31,11,35.5
+"Negative","New England","Integrated Network Cancer Program","2018",29,7,24.1
+"Negative","New England","Integrated Network Cancer Program","2019",21,5,23.8
+"Negative","New England","Integrated Network Cancer Program","2020",19,4,21.1
+"Negative","New England","Integrated Network Cancer Program","2021",26,11,42.3
+"Negative","Pacific","Academic/Research Program","2013",76,29,38.2
+"Negative","Pacific","Academic/Research Program","2014",72,29,40.3
+"Negative","Pacific","Academic/Research Program","2015",91,42,46.2
+"Negative","Pacific","Academic/Research Program","2016",70,35,50
+"Negative","Pacific","Academic/Research Program","2017",81,26,32.1
+"Negative","Pacific","Academic/Research Program","2018",93,37,39.8
+"Negative","Pacific","Academic/Research Program","2019",94,24,25.5
+"Negative","Pacific","Academic/Research Program","2020",89,43,48.3
+"Negative","Pacific","Academic/Research Program","2021",91,26,28.6
+"Negative","Pacific","Community Cancer Program","2013",22,4,18.2
+"Negative","Pacific","Community Cancer Program","2014",16,2,12.5
+"Negative","Pacific","Community Cancer Program","2015",13,4,30.8
+"Negative","Pacific","Community Cancer Program","2016",24,2,8.3
+"Negative","Pacific","Community Cancer Program","2017",17,1,5.9
+"Negative","Pacific","Community Cancer Program","2018",30,6,20
+"Negative","Pacific","Community Cancer Program","2019",22,4,18.2
+"Negative","Pacific","Community Cancer Program","2020",29,2,6.9
+"Negative","Pacific","Community Cancer Program","2021",17,2,11.8
+"Negative","Pacific","Comprehensive Community Cancer Program","2013",93,29,31.2
+"Negative","Pacific","Comprehensive Community Cancer Program","2014",103,27,26.2
+"Negative","Pacific","Comprehensive Community Cancer Program","2015",94,22,23.4
+"Negative","Pacific","Comprehensive Community Cancer Program","2016",94,20,21.3
+"Negative","Pacific","Comprehensive Community Cancer Program","2017",86,18,20.9
+"Negative","Pacific","Comprehensive Community Cancer Program","2018",89,26,29.2
+"Negative","Pacific","Comprehensive Community Cancer Program","2019",121,26,21.5
+"Negative","Pacific","Comprehensive Community Cancer Program","2020",87,23,26.4
+"Negative","Pacific","Comprehensive Community Cancer Program","2021",98,14,14.3
+"Negative","Pacific","Integrated Network Cancer Program","2013",47,11,23.4
+"Negative","Pacific","Integrated Network Cancer Program","2014",47,19,40.4
+"Negative","Pacific","Integrated Network Cancer Program","2015",33,12,36.4
+"Negative","Pacific","Integrated Network Cancer Program","2016",32,9,28.1
+"Negative","Pacific","Integrated Network Cancer Program","2017",35,13,37.1
+"Negative","Pacific","Integrated Network Cancer Program","2018",41,13,31.7
+"Negative","Pacific","Integrated Network Cancer Program","2019",32,10,31.2
+"Negative","Pacific","Integrated Network Cancer Program","2020",31,5,16.1
+"Negative","Pacific","Integrated Network Cancer Program","2021",32,10,31.2
+"Negative","South Atlantic","Academic/Research Program","2013",223,90,40.4
+"Negative","South Atlantic","Academic/Research Program","2014",234,99,42.3
+"Negative","South Atlantic","Academic/Research Program","2015",226,74,32.7
+"Negative","South Atlantic","Academic/Research Program","2016",227,72,31.7
+"Negative","South Atlantic","Academic/Research Program","2017",269,93,34.6
+"Negative","South Atlantic","Academic/Research Program","2018",215,73,34
+"Negative","South Atlantic","Academic/Research Program","2019",296,93,31.4
+"Negative","South Atlantic","Academic/Research Program","2020",273,99,36.3
+"Negative","South Atlantic","Academic/Research Program","2021",290,94,32.4
+"Negative","South Atlantic","Community Cancer Program","2013",26,9,34.6
+"Negative","South Atlantic","Community Cancer Program","2014",43,8,18.6
+"Negative","South Atlantic","Community Cancer Program","2015",32,9,28.1
+"Negative","South Atlantic","Community Cancer Program","2016",34,8,23.5
+"Negative","South Atlantic","Community Cancer Program","2017",31,4,12.9
+"Negative","South Atlantic","Community Cancer Program","2018",23,3,13
+"Negative","South Atlantic","Community Cancer Program","2019",27,3,11.1
+"Negative","South Atlantic","Community Cancer Program","2020",31,5,16.1
+"Negative","South Atlantic","Community Cancer Program","2021",40,4,10
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2013",221,62,28.1
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2014",191,43,22.5
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2015",212,47,22.2
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2016",244,50,20.5
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2017",205,45,22
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2018",203,36,17.7
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2019",203,41,20.2
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2020",264,37,14
+"Negative","South Atlantic","Comprehensive Community Cancer Program","2021",236,35,14.8
+"Negative","South Atlantic","Integrated Network Cancer Program","2013",157,47,29.9
+"Negative","South Atlantic","Integrated Network Cancer Program","2014",137,29,21.2
+"Negative","South Atlantic","Integrated Network Cancer Program","2015",153,26,17
+"Negative","South Atlantic","Integrated Network Cancer Program","2016",136,23,16.9
+"Negative","South Atlantic","Integrated Network Cancer Program","2017",143,36,25.2
+"Negative","South Atlantic","Integrated Network Cancer Program","2018",127,33,26
+"Negative","South Atlantic","Integrated Network Cancer Program","2019",144,20,13.9
+"Negative","South Atlantic","Integrated Network Cancer Program","2020",156,35,22.4
+"Negative","South Atlantic","Integrated Network Cancer Program","2021",145,39,26.9
+"Negative","Unknown","Unknown","2013",19,9,47.4
+"Negative","Unknown","Unknown","2014",30,15,50
+"Negative","Unknown","Unknown","2015",29,16,55.2
+"Negative","Unknown","Unknown","2016",26,16,61.5
+"Negative","Unknown","Unknown","2017",25,12,48
+"Negative","Unknown","Unknown","2018",27,14,51.9
+"Negative","Unknown","Unknown","2019",23,6,26.1
+"Negative","Unknown","Unknown","2020",30,9,30
+"Negative","Unknown","Unknown","2021",18,6,33.3
+"Negative","West North Central","Academic/Research Program","2013",79,33,41.8
+"Negative","West North Central","Academic/Research Program","2014",102,53,52
+"Negative","West North Central","Academic/Research Program","2015",97,47,48.5
+"Negative","West North Central","Academic/Research Program","2016",97,37,38.1
+"Negative","West North Central","Academic/Research Program","2017",85,37,43.5
+"Negative","West North Central","Academic/Research Program","2018",99,45,45.5
+"Negative","West North Central","Academic/Research Program","2019",103,40,38.8
+"Negative","West North Central","Academic/Research Program","2020",85,34,40
+"Negative","West North Central","Academic/Research Program","2021",83,26,31.3
+"Negative","West North Central","Community Cancer Program","2013",8,3,37.5
+"Negative","West North Central","Community Cancer Program","2014",15,3,20
+"Negative","West North Central","Community Cancer Program","2015",11,1,9.1
+"Negative","West North Central","Community Cancer Program","2016",19,4,21.1
+"Negative","West North Central","Community Cancer Program","2017",15,3,20
+"Negative","West North Central","Community Cancer Program","2018",21,6,28.6
+"Negative","West North Central","Community Cancer Program","2019",18,4,22.2
+"Negative","West North Central","Community Cancer Program","2020",14,4,28.6
+"Negative","West North Central","Community Cancer Program","2021",22,2,9.1
+"Negative","West North Central","Comprehensive Community Cancer Program","2013",59,25,42.4
+"Negative","West North Central","Comprehensive Community Cancer Program","2014",48,21,43.8
+"Negative","West North Central","Comprehensive Community Cancer Program","2015",79,31,39.2
+"Negative","West North Central","Comprehensive Community Cancer Program","2016",67,25,37.3
+"Negative","West North Central","Comprehensive Community Cancer Program","2017",68,23,33.8
+"Negative","West North Central","Comprehensive Community Cancer Program","2018",70,20,28.6
+"Negative","West North Central","Comprehensive Community Cancer Program","2019",70,22,31.4
+"Negative","West North Central","Comprehensive Community Cancer Program","2020",54,11,20.4
+"Negative","West North Central","Comprehensive Community Cancer Program","2021",70,14,20
+"Negative","West North Central","Integrated Network Cancer Program","2013",19,8,42.1
+"Negative","West North Central","Integrated Network Cancer Program","2014",24,10,41.7
+"Negative","West North Central","Integrated Network Cancer Program","2015",17,4,23.5
+"Negative","West North Central","Integrated Network Cancer Program","2016",23,6,26.1
+"Negative","West North Central","Integrated Network Cancer Program","2017",13,4,30.8
+"Negative","West North Central","Integrated Network Cancer Program","2018",21,5,23.8
+"Negative","West North Central","Integrated Network Cancer Program","2019",29,6,20.7
+"Negative","West North Central","Integrated Network Cancer Program","2020",23,8,34.8
+"Negative","West North Central","Integrated Network Cancer Program","2021",23,9,39.1
+"Negative","West South Central","Academic/Research Program","2013",55,19,34.5
+"Negative","West South Central","Academic/Research Program","2014",55,13,23.6
+"Negative","West South Central","Academic/Research Program","2015",78,24,30.8
+"Negative","West South Central","Academic/Research Program","2016",115,28,24.3
+"Negative","West South Central","Academic/Research Program","2017",129,31,24
+"Negative","West South Central","Academic/Research Program","2018",120,24,20
+"Negative","West South Central","Academic/Research Program","2019",119,31,26.1
+"Negative","West South Central","Academic/Research Program","2020",114,26,22.8
+"Negative","West South Central","Academic/Research Program","2021",124,29,23.4
+"Negative","West South Central","Community Cancer Program","2013",5,1,20
+"Negative","West South Central","Community Cancer Program","2014",10,3,30
+"Negative","West South Central","Community Cancer Program","2015",9,1,11.1
+"Negative","West South Central","Community Cancer Program","2016",13,5,38.5
+"Negative","West South Central","Community Cancer Program","2017",16,7,43.8
+"Negative","West South Central","Community Cancer Program","2018",16,2,12.5
+"Negative","West South Central","Community Cancer Program","2019",15,2,13.3
+"Negative","West South Central","Community Cancer Program","2020",20,3,15
+"Negative","West South Central","Community Cancer Program","2021",9,0,0
+"Negative","West South Central","Comprehensive Community Cancer Program","2013",64,24,37.5
+"Negative","West South Central","Comprehensive Community Cancer Program","2014",77,21,27.3
+"Negative","West South Central","Comprehensive Community Cancer Program","2015",60,21,35
+"Negative","West South Central","Comprehensive Community Cancer Program","2016",64,17,26.6
+"Negative","West South Central","Comprehensive Community Cancer Program","2017",70,20,28.6
+"Negative","West South Central","Comprehensive Community Cancer Program","2018",97,21,21.6
+"Negative","West South Central","Comprehensive Community Cancer Program","2019",89,21,23.6
+"Negative","West South Central","Comprehensive Community Cancer Program","2020",100,26,26
+"Negative","West South Central","Comprehensive Community Cancer Program","2021",96,27,28.1
+"Negative","West South Central","Integrated Network Cancer Program","2013",16,7,43.8
+"Negative","West South Central","Integrated Network Cancer Program","2014",18,5,27.8
+"Negative","West South Central","Integrated Network Cancer Program","2015",20,6,30
+"Negative","West South Central","Integrated Network Cancer Program","2016",22,6,27.3
+"Negative","West South Central","Integrated Network Cancer Program","2017",18,3,16.7
+"Negative","West South Central","Integrated Network Cancer Program","2018",15,5,33.3
+"Negative","West South Central","Integrated Network Cancer Program","2019",14,5,35.7
+"Negative","West South Central","Integrated Network Cancer Program","2020",15,2,13.3
+"Negative","West South Central","Integrated Network Cancer Program","2021",23,2,8.7
+"Positive","East North Central","Academic/Research Program","2013",429,168,39.2
+"Positive","East North Central","Academic/Research Program","2014",483,146,30.2
+"Positive","East North Central","Academic/Research Program","2015",506,159,31.4
+"Positive","East North Central","Academic/Research Program","2016",563,181,32.1
+"Positive","East North Central","Academic/Research Program","2017",650,239,36.8
+"Positive","East North Central","Academic/Research Program","2018",807,260,32.2
+"Positive","East North Central","Academic/Research Program","2019",954,318,33.3
+"Positive","East North Central","Academic/Research Program","2020",883,271,30.7
+"Positive","East North Central","Academic/Research Program","2021",863,254,29.4
+"Positive","East North Central","Community Cancer Program","2013",51,24,47.1
+"Positive","East North Central","Community Cancer Program","2014",73,33,45.2
+"Positive","East North Central","Community Cancer Program","2015",94,33,35.1
+"Positive","East North Central","Community Cancer Program","2016",126,49,38.9
+"Positive","East North Central","Community Cancer Program","2017",127,47,37
+"Positive","East North Central","Community Cancer Program","2018",199,50,25.1
+"Positive","East North Central","Community Cancer Program","2019",170,40,23.5
+"Positive","East North Central","Community Cancer Program","2020",180,49,27.2
+"Positive","East North Central","Community Cancer Program","2021",192,43,22.4
+"Positive","East North Central","Comprehensive Community Cancer Program","2013",182,74,40.7
+"Positive","East North Central","Comprehensive Community Cancer Program","2014",232,97,41.8
+"Positive","East North Central","Comprehensive Community Cancer Program","2015",275,97,35.3
+"Positive","East North Central","Comprehensive Community Cancer Program","2016",320,106,33.1
+"Positive","East North Central","Comprehensive Community Cancer Program","2017",337,125,37.1
+"Positive","East North Central","Comprehensive Community Cancer Program","2018",455,128,28.1
+"Positive","East North Central","Comprehensive Community Cancer Program","2019",515,118,22.9
+"Positive","East North Central","Comprehensive Community Cancer Program","2020",516,148,28.7
+"Positive","East North Central","Comprehensive Community Cancer Program","2021",560,167,29.8
+"Positive","East North Central","Integrated Network Cancer Program","2013",233,93,39.9
+"Positive","East North Central","Integrated Network Cancer Program","2014",262,97,37
+"Positive","East North Central","Integrated Network Cancer Program","2015",297,103,34.7
+"Positive","East North Central","Integrated Network Cancer Program","2016",329,95,28.9
+"Positive","East North Central","Integrated Network Cancer Program","2017",381,127,33.3
+"Positive","East North Central","Integrated Network Cancer Program","2018",499,161,32.3
+"Positive","East North Central","Integrated Network Cancer Program","2019",563,172,30.6
+"Positive","East North Central","Integrated Network Cancer Program","2020",564,139,24.6
+"Positive","East North Central","Integrated Network Cancer Program","2021",556,144,25.9
+"Positive","East South Central","Academic/Research Program","2013",190,89,46.8
+"Positive","East South Central","Academic/Research Program","2014",197,81,41.1
+"Positive","East South Central","Academic/Research Program","2015",189,79,41.8
+"Positive","East South Central","Academic/Research Program","2016",208,64,30.8
+"Positive","East South Central","Academic/Research Program","2017",271,89,32.8
+"Positive","East South Central","Academic/Research Program","2018",312,120,38.5
+"Positive","East South Central","Academic/Research Program","2019",312,128,41
+"Positive","East South Central","Academic/Research Program","2020",263,89,33.8
+"Positive","East South Central","Academic/Research Program","2021",287,109,38
+"Positive","East South Central","Community Cancer Program","2013",24,14,58.3
+"Positive","East South Central","Community Cancer Program","2014",35,18,51.4
+"Positive","East South Central","Community Cancer Program","2015",41,16,39
+"Positive","East South Central","Community Cancer Program","2016",43,18,41.9
+"Positive","East South Central","Community Cancer Program","2017",58,24,41.4
+"Positive","East South Central","Community Cancer Program","2018",66,27,40.9
+"Positive","East South Central","Community Cancer Program","2019",92,29,31.5
+"Positive","East South Central","Community Cancer Program","2020",73,19,26
+"Positive","East South Central","Community Cancer Program","2021",70,12,17.1
+"Positive","East South Central","Comprehensive Community Cancer Program","2013",125,53,42.4
+"Positive","East South Central","Comprehensive Community Cancer Program","2014",166,73,44
+"Positive","East South Central","Comprehensive Community Cancer Program","2015",185,72,38.9
+"Positive","East South Central","Comprehensive Community Cancer Program","2016",245,99,40.4
+"Positive","East South Central","Comprehensive Community Cancer Program","2017",269,81,30.1
+"Positive","East South Central","Comprehensive Community Cancer Program","2018",320,96,30
+"Positive","East South Central","Comprehensive Community Cancer Program","2019",355,86,24.2
+"Positive","East South Central","Comprehensive Community Cancer Program","2020",341,82,24
+"Positive","East South Central","Comprehensive Community Cancer Program","2021",349,85,24.4
+"Positive","East South Central","Integrated Network Cancer Program","2013",31,10,32.3
+"Positive","East South Central","Integrated Network Cancer Program","2014",41,19,46.3
+"Positive","East South Central","Integrated Network Cancer Program","2015",61,17,27.9
+"Positive","East South Central","Integrated Network Cancer Program","2016",56,22,39.3
+"Positive","East South Central","Integrated Network Cancer Program","2017",68,19,27.9
+"Positive","East South Central","Integrated Network Cancer Program","2018",101,27,26.7
+"Positive","East South Central","Integrated Network Cancer Program","2019",136,30,22.1
+"Positive","East South Central","Integrated Network Cancer Program","2020",110,36,32.7
+"Positive","East South Central","Integrated Network Cancer Program","2021",155,38,24.5
+"Positive","Middle Atlantic","Academic/Research Program","2013",588,313,53.2
+"Positive","Middle Atlantic","Academic/Research Program","2014",629,336,53.4
+"Positive","Middle Atlantic","Academic/Research Program","2015",763,394,51.6
+"Positive","Middle Atlantic","Academic/Research Program","2016",812,370,45.6
+"Positive","Middle Atlantic","Academic/Research Program","2017",877,390,44.5
+"Positive","Middle Atlantic","Academic/Research Program","2018",1135,489,43.1
+"Positive","Middle Atlantic","Academic/Research Program","2019",1239,565,45.6
+"Positive","Middle Atlantic","Academic/Research Program","2020",1046,422,40.3
+"Positive","Middle Atlantic","Academic/Research Program","2021",1055,369,35
+"Positive","Middle Atlantic","Community Cancer Program","2013",34,12,35.3
+"Positive","Middle Atlantic","Community Cancer Program","2014",30,6,20
+"Positive","Middle Atlantic","Community Cancer Program","2015",35,7,20
+"Positive","Middle Atlantic","Community Cancer Program","2016",47,15,31.9
+"Positive","Middle Atlantic","Community Cancer Program","2017",29,10,34.5
+"Positive","Middle Atlantic","Community Cancer Program","2018",48,12,25
+"Positive","Middle Atlantic","Community Cancer Program","2019",47,10,21.3
+"Positive","Middle Atlantic","Community Cancer Program","2020",60,13,21.7
+"Positive","Middle Atlantic","Community Cancer Program","2021",38,12,31.6
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2013",162,55,34
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2014",172,68,39.5
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2015",188,61,32.4
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2016",207,63,30.4
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2017",257,89,34.6
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2018",329,101,30.7
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2019",359,110,30.6
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2020",345,107,31
+"Positive","Middle Atlantic","Comprehensive Community Cancer Program","2021",376,98,26.1
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2013",75,27,36
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2014",92,38,41.3
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2015",88,35,39.8
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2016",109,47,43.1
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2017",134,49,36.6
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2018",151,65,43
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2019",148,64,43.2
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2020",177,62,35
+"Positive","Middle Atlantic","Integrated Network Cancer Program","2021",150,57,38
+"Positive","Mountain","Academic/Research Program","2013",70,45,64.3
+"Positive","Mountain","Academic/Research Program","2014",76,41,53.9
+"Positive","Mountain","Academic/Research Program","2015",97,45,46.4
+"Positive","Mountain","Academic/Research Program","2016",106,54,50.9
+"Positive","Mountain","Academic/Research Program","2017",120,52,43.3
+"Positive","Mountain","Academic/Research Program","2018",147,83,56.5
+"Positive","Mountain","Academic/Research Program","2019",153,92,60.1
+"Positive","Mountain","Academic/Research Program","2020",190,98,51.6
+"Positive","Mountain","Academic/Research Program","2021",169,80,47.3
+"Positive","Mountain","Community Cancer Program","2013",11,5,45.5
+"Positive","Mountain","Community Cancer Program","2014",18,5,27.8
+"Positive","Mountain","Community Cancer Program","2015",18,6,33.3
+"Positive","Mountain","Community Cancer Program","2016",23,6,26.1
+"Positive","Mountain","Community Cancer Program","2017",30,6,20
+"Positive","Mountain","Community Cancer Program","2018",42,11,26.2
+"Positive","Mountain","Community Cancer Program","2019",43,12,27.9
+"Positive","Mountain","Community Cancer Program","2020",40,16,40
+"Positive","Mountain","Community Cancer Program","2021",26,7,26.9
+"Positive","Mountain","Comprehensive Community Cancer Program","2013",98,33,33.7
+"Positive","Mountain","Comprehensive Community Cancer Program","2014",141,53,37.6
+"Positive","Mountain","Comprehensive Community Cancer Program","2015",141,45,31.9
+"Positive","Mountain","Comprehensive Community Cancer Program","2016",146,42,28.8
+"Positive","Mountain","Comprehensive Community Cancer Program","2017",173,53,30.6
+"Positive","Mountain","Comprehensive Community Cancer Program","2018",211,61,28.9
+"Positive","Mountain","Comprehensive Community Cancer Program","2019",263,75,28.5
+"Positive","Mountain","Comprehensive Community Cancer Program","2020",284,81,28.5
+"Positive","Mountain","Comprehensive Community Cancer Program","2021",246,56,22.8
+"Positive","Mountain","Integrated Network Cancer Program","2013",86,43,50
+"Positive","Mountain","Integrated Network Cancer Program","2014",102,51,50
+"Positive","Mountain","Integrated Network Cancer Program","2015",93,36,38.7
+"Positive","Mountain","Integrated Network Cancer Program","2016",85,39,45.9
+"Positive","Mountain","Integrated Network Cancer Program","2017",103,38,36.9
+"Positive","Mountain","Integrated Network Cancer Program","2018",183,79,43.2
+"Positive","Mountain","Integrated Network Cancer Program","2019",217,79,36.4
+"Positive","Mountain","Integrated Network Cancer Program","2020",175,49,28
+"Positive","Mountain","Integrated Network Cancer Program","2021",164,50,30.5
+"Positive","New England","Academic/Research Program","2013",221,87,39.4
+"Positive","New England","Academic/Research Program","2014",246,86,35
+"Positive","New England","Academic/Research Program","2015",264,90,34.1
+"Positive","New England","Academic/Research Program","2016",247,83,33.6
+"Positive","New England","Academic/Research Program","2017",286,98,34.3
+"Positive","New England","Academic/Research Program","2018",338,115,34
+"Positive","New England","Academic/Research Program","2019",341,97,28.4
+"Positive","New England","Academic/Research Program","2020",354,97,27.4
+"Positive","New England","Academic/Research Program","2021",314,84,26.8
+"Positive","New England","Community Cancer Program","2013",28,8,28.6
+"Positive","New England","Community Cancer Program","2014",21,5,23.8
+"Positive","New England","Community Cancer Program","2015",26,9,34.6
+"Positive","New England","Community Cancer Program","2016",32,9,28.1
+"Positive","New England","Community Cancer Program","2017",40,15,37.5
+"Positive","New England","Community Cancer Program","2018",40,10,25
+"Positive","New England","Community Cancer Program","2019",39,11,28.2
+"Positive","New England","Community Cancer Program","2020",44,15,34.1
+"Positive","New England","Community Cancer Program","2021",50,12,24
+"Positive","New England","Comprehensive Community Cancer Program","2013",117,38,32.5
+"Positive","New England","Comprehensive Community Cancer Program","2014",124,46,37.1
+"Positive","New England","Comprehensive Community Cancer Program","2015",142,47,33.1
+"Positive","New England","Comprehensive Community Cancer Program","2016",163,67,41.1
+"Positive","New England","Comprehensive Community Cancer Program","2017",194,66,34
+"Positive","New England","Comprehensive Community Cancer Program","2018",180,51,28.3
+"Positive","New England","Comprehensive Community Cancer Program","2019",210,69,32.9
+"Positive","New England","Comprehensive Community Cancer Program","2020",246,65,26.4
+"Positive","New England","Comprehensive Community Cancer Program","2021",200,47,23.5
+"Positive","New England","Integrated Network Cancer Program","2013",37,16,43.2
+"Positive","New England","Integrated Network Cancer Program","2014",57,18,31.6
+"Positive","New England","Integrated Network Cancer Program","2015",37,10,27
+"Positive","New England","Integrated Network Cancer Program","2016",50,17,34
+"Positive","New England","Integrated Network Cancer Program","2017",62,19,30.6
+"Positive","New England","Integrated Network Cancer Program","2018",128,51,39.8
+"Positive","New England","Integrated Network Cancer Program","2019",120,51,42.5
+"Positive","New England","Integrated Network Cancer Program","2020",107,34,31.8
+"Positive","New England","Integrated Network Cancer Program","2021",124,33,26.6
+"Positive","Pacific","Academic/Research Program","2013",251,123,49
+"Positive","Pacific","Academic/Research Program","2014",258,120,46.5
+"Positive","Pacific","Academic/Research Program","2015",364,166,45.6
+"Positive","Pacific","Academic/Research Program","2016",404,167,41.3
+"Positive","Pacific","Academic/Research Program","2017",409,150,36.7
+"Positive","Pacific","Academic/Research Program","2018",484,186,38.4
+"Positive","Pacific","Academic/Research Program","2019",583,259,44.4
+"Positive","Pacific","Academic/Research Program","2020",521,194,37.2
+"Positive","Pacific","Academic/Research Program","2021",505,202,40
+"Positive","Pacific","Community Cancer Program","2013",45,9,20
+"Positive","Pacific","Community Cancer Program","2014",63,25,39.7
+"Positive","Pacific","Community Cancer Program","2015",66,17,25.8
+"Positive","Pacific","Community Cancer Program","2016",82,16,19.5
+"Positive","Pacific","Community Cancer Program","2017",94,16,17
+"Positive","Pacific","Community Cancer Program","2018",96,23,24
+"Positive","Pacific","Community Cancer Program","2019",136,29,21.3
+"Positive","Pacific","Community Cancer Program","2020",113,20,17.7
+"Positive","Pacific","Community Cancer Program","2021",106,12,11.3
+"Positive","Pacific","Comprehensive Community Cancer Program","2013",303,108,35.6
+"Positive","Pacific","Comprehensive Community Cancer Program","2014",372,146,39.2
+"Positive","Pacific","Comprehensive Community Cancer Program","2015",373,126,33.8
+"Positive","Pacific","Comprehensive Community Cancer Program","2016",483,148,30.6
+"Positive","Pacific","Comprehensive Community Cancer Program","2017",479,131,27.3
+"Positive","Pacific","Comprehensive Community Cancer Program","2018",613,184,30
+"Positive","Pacific","Comprehensive Community Cancer Program","2019",628,167,26.6
+"Positive","Pacific","Comprehensive Community Cancer Program","2020",645,147,22.8
+"Positive","Pacific","Comprehensive Community Cancer Program","2021",604,130,21.5
+"Positive","Pacific","Integrated Network Cancer Program","2013",115,55,47.8
+"Positive","Pacific","Integrated Network Cancer Program","2014",130,54,41.5
+"Positive","Pacific","Integrated Network Cancer Program","2015",153,76,49.7
+"Positive","Pacific","Integrated Network Cancer Program","2016",154,62,40.3
+"Positive","Pacific","Integrated Network Cancer Program","2017",160,65,40.6
+"Positive","Pacific","Integrated Network Cancer Program","2018",212,72,34
+"Positive","Pacific","Integrated Network Cancer Program","2019",203,63,31
+"Positive","Pacific","Integrated Network Cancer Program","2020",186,57,30.6
+"Positive","Pacific","Integrated Network Cancer Program","2021",173,52,30.1
+"Positive","South Atlantic","Academic/Research Program","2013",557,226,40.6
+"Positive","South Atlantic","Academic/Research Program","2014",619,225,36.3
+"Positive","South Atlantic","Academic/Research Program","2015",673,266,39.5
+"Positive","South Atlantic","Academic/Research Program","2016",773,305,39.5
+"Positive","South Atlantic","Academic/Research Program","2017",922,363,39.4
+"Positive","South Atlantic","Academic/Research Program","2018",1078,414,38.4
+"Positive","South Atlantic","Academic/Research Program","2019",1240,490,39.5
+"Positive","South Atlantic","Academic/Research Program","2020",1114,402,36.1
+"Positive","South Atlantic","Academic/Research Program","2021",1058,400,37.8
+"Positive","South Atlantic","Community Cancer Program","2013",50,17,34
+"Positive","South Atlantic","Community Cancer Program","2014",64,23,35.9
+"Positive","South Atlantic","Community Cancer Program","2015",53,15,28.3
+"Positive","South Atlantic","Community Cancer Program","2016",64,20,31.2
+"Positive","South Atlantic","Community Cancer Program","2017",68,20,29.4
+"Positive","South Atlantic","Community Cancer Program","2018",102,21,20.6
+"Positive","South Atlantic","Community Cancer Program","2019",145,43,29.7
+"Positive","South Atlantic","Community Cancer Program","2020",148,39,26.4
+"Positive","South Atlantic","Community Cancer Program","2021",117,31,26.5
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2013",378,125,33.1
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2014",501,125,25
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2015",591,181,30.6
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2016",650,190,29.2
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2017",747,206,27.6
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2018",863,215,24.9
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2019",952,244,25.6
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2020",862,154,17.9
+"Positive","South Atlantic","Comprehensive Community Cancer Program","2021",949,178,18.8
+"Positive","South Atlantic","Integrated Network Cancer Program","2013",257,84,32.7
+"Positive","South Atlantic","Integrated Network Cancer Program","2014",315,107,34
+"Positive","South Atlantic","Integrated Network Cancer Program","2015",352,92,26.1
+"Positive","South Atlantic","Integrated Network Cancer Program","2016",375,103,27.5
+"Positive","South Atlantic","Integrated Network Cancer Program","2017",431,103,23.9
+"Positive","South Atlantic","Integrated Network Cancer Program","2018",524,138,26.3
+"Positive","South Atlantic","Integrated Network Cancer Program","2019",587,157,26.7
+"Positive","South Atlantic","Integrated Network Cancer Program","2020",633,139,22
+"Positive","South Atlantic","Integrated Network Cancer Program","2021",616,158,25.6
+"Positive","Unknown","Unknown","2013",85,48,56.5
+"Positive","Unknown","Unknown","2014",77,46,59.7
+"Positive","Unknown","Unknown","2015",76,34,44.7
+"Positive","Unknown","Unknown","2016",102,47,46.1
+"Positive","Unknown","Unknown","2017",113,57,50.4
+"Positive","Unknown","Unknown","2018",97,50,51.5
+"Positive","Unknown","Unknown","2019",146,63,43.2
+"Positive","Unknown","Unknown","2020",127,62,48.8
+"Positive","Unknown","Unknown","2021",87,45,51.7
+"Positive","West North Central","Academic/Research Program","2013",290,172,59.3
+"Positive","West North Central","Academic/Research Program","2014",326,176,54
+"Positive","West North Central","Academic/Research Program","2015",315,162,51.4
+"Positive","West North Central","Academic/Research Program","2016",377,189,50.1
+"Positive","West North Central","Academic/Research Program","2017",403,221,54.8
+"Positive","West North Central","Academic/Research Program","2018",533,304,57
+"Positive","West North Central","Academic/Research Program","2019",481,234,48.6
+"Positive","West North Central","Academic/Research Program","2020",489,237,48.5
+"Positive","West North Central","Academic/Research Program","2021",440,196,44.5
+"Positive","West North Central","Community Cancer Program","2013",32,15,46.9
+"Positive","West North Central","Community Cancer Program","2014",38,14,36.8
+"Positive","West North Central","Community Cancer Program","2015",45,13,28.9
+"Positive","West North Central","Community Cancer Program","2016",48,12,25
+"Positive","West North Central","Community Cancer Program","2017",53,14,26.4
+"Positive","West North Central","Community Cancer Program","2018",69,16,23.2
+"Positive","West North Central","Community Cancer Program","2019",66,11,16.7
+"Positive","West North Central","Community Cancer Program","2020",86,19,22.1
+"Positive","West North Central","Community Cancer Program","2021",75,16,21.3
+"Positive","West North Central","Comprehensive Community Cancer Program","2013",155,87,56.1
+"Positive","West North Central","Comprehensive Community Cancer Program","2014",189,82,43.4
+"Positive","West North Central","Comprehensive Community Cancer Program","2015",215,96,44.7
+"Positive","West North Central","Comprehensive Community Cancer Program","2016",251,98,39
+"Positive","West North Central","Comprehensive Community Cancer Program","2017",253,99,39.1
+"Positive","West North Central","Comprehensive Community Cancer Program","2018",300,116,38.7
+"Positive","West North Central","Comprehensive Community Cancer Program","2019",342,98,28.7
+"Positive","West North Central","Comprehensive Community Cancer Program","2020",362,120,33.1
+"Positive","West North Central","Comprehensive Community Cancer Program","2021",332,104,31.3
+"Positive","West North Central","Integrated Network Cancer Program","2013",43,17,39.5
+"Positive","West North Central","Integrated Network Cancer Program","2014",49,23,46.9
+"Positive","West North Central","Integrated Network Cancer Program","2015",42,19,45.2
+"Positive","West North Central","Integrated Network Cancer Program","2016",71,29,40.8
+"Positive","West North Central","Integrated Network Cancer Program","2017",74,26,35.1
+"Positive","West North Central","Integrated Network Cancer Program","2018",96,31,32.3
+"Positive","West North Central","Integrated Network Cancer Program","2019",94,32,34
+"Positive","West North Central","Integrated Network Cancer Program","2020",96,31,32.3
+"Positive","West North Central","Integrated Network Cancer Program","2021",108,32,29.6
+"Positive","West South Central","Academic/Research Program","2013",114,41,36
+"Positive","West South Central","Academic/Research Program","2014",122,42,34.4
+"Positive","West South Central","Academic/Research Program","2015",326,86,26.4
+"Positive","West South Central","Academic/Research Program","2016",363,109,30
+"Positive","West South Central","Academic/Research Program","2017",404,127,31.4
+"Positive","West South Central","Academic/Research Program","2018",550,171,31.1
+"Positive","West South Central","Academic/Research Program","2019",606,195,32.2
+"Positive","West South Central","Academic/Research Program","2020",546,165,30.2
+"Positive","West South Central","Academic/Research Program","2021",590,168,28.5
+"Positive","West South Central","Community Cancer Program","2013",11,3,27.3
+"Positive","West South Central","Community Cancer Program","2014",14,5,35.7
+"Positive","West South Central","Community Cancer Program","2015",18,7,38.9
+"Positive","West South Central","Community Cancer Program","2016",26,10,38.5
+"Positive","West South Central","Community Cancer Program","2017",35,16,45.7
+"Positive","West South Central","Community Cancer Program","2018",59,20,33.9
+"Positive","West South Central","Community Cancer Program","2019",57,15,26.3
+"Positive","West South Central","Community Cancer Program","2020",50,10,20
+"Positive","West South Central","Community Cancer Program","2021",51,13,25.5
+"Positive","West South Central","Comprehensive Community Cancer Program","2013",126,52,41.3
+"Positive","West South Central","Comprehensive Community Cancer Program","2014",140,55,39.3
+"Positive","West South Central","Comprehensive Community Cancer Program","2015",196,67,34.2
+"Positive","West South Central","Comprehensive Community Cancer Program","2016",173,56,32.4
+"Positive","West South Central","Comprehensive Community Cancer Program","2017",255,69,27.1
+"Positive","West South Central","Comprehensive Community Cancer Program","2018",321,84,26.2
+"Positive","West South Central","Comprehensive Community Cancer Program","2019",368,112,30.4
+"Positive","West South Central","Comprehensive Community Cancer Program","2020",386,103,26.7
+"Positive","West South Central","Comprehensive Community Cancer Program","2021",323,92,28.5
+"Positive","West South Central","Integrated Network Cancer Program","2013",37,14,37.8
+"Positive","West South Central","Integrated Network Cancer Program","2014",45,17,37.8
+"Positive","West South Central","Integrated Network Cancer Program","2015",45,21,46.7
+"Positive","West South Central","Integrated Network Cancer Program","2016",70,27,38.6
+"Positive","West South Central","Integrated Network Cancer Program","2017",65,18,27.7
+"Positive","West South Central","Integrated Network Cancer Program","2018",63,19,30.2
+"Positive","West South Central","Integrated Network Cancer Program","2019",82,23,28
+"Positive","West South Central","Integrated Network Cancer Program","2020",98,28,28.6
+"Positive","West South Central","Integrated Network Cancer Program","2021",75,21,28
+"Unknown","East North Central","Academic/Research Program","2013",321,106,33
+"Unknown","East North Central","Academic/Research Program","2014",284,109,38.4
+"Unknown","East North Central","Academic/Research Program","2015",283,101,35.7
+"Unknown","East North Central","Academic/Research Program","2016",288,98,34
+"Unknown","East North Central","Academic/Research Program","2017",262,83,31.7
+"Unknown","East North Central","Academic/Research Program","2018",93,43,46.2
+"Unknown","East North Central","Academic/Research Program","2019",62,35,56.5
+"Unknown","East North Central","Academic/Research Program","2020",53,17,32.1
+"Unknown","East North Central","Academic/Research Program","2021",52,20,38.5
+"Unknown","East North Central","Community Cancer Program","2013",101,34,33.7
+"Unknown","East North Central","Community Cancer Program","2014",70,25,35.7
+"Unknown","East North Central","Community Cancer Program","2015",73,26,35.6
+"Unknown","East North Central","Community Cancer Program","2016",71,14,19.7
+"Unknown","East North Central","Community Cancer Program","2017",67,18,26.9
+"Unknown","East North Central","Community Cancer Program","2018",27,1,3.7
+"Unknown","East North Central","Community Cancer Program","2019",27,3,11.1
+"Unknown","East North Central","Community Cancer Program","2020",18,6,33.3
+"Unknown","East North Central","Community Cancer Program","2021",20,5,25
+"Unknown","East North Central","Comprehensive Community Cancer Program","2013",277,89,32.1
+"Unknown","East North Central","Comprehensive Community Cancer Program","2014",226,59,26.1
+"Unknown","East North Central","Comprehensive Community Cancer Program","2015",208,65,31.2
+"Unknown","East North Central","Comprehensive Community Cancer Program","2016",190,66,34.7
+"Unknown","East North Central","Comprehensive Community Cancer Program","2017",150,42,28
+"Unknown","East North Central","Comprehensive Community Cancer Program","2018",82,22,26.8
+"Unknown","East North Central","Comprehensive Community Cancer Program","2019",40,8,20
+"Unknown","East North Central","Comprehensive Community Cancer Program","2020",39,17,43.6
+"Unknown","East North Central","Comprehensive Community Cancer Program","2021",34,10,29.4
+"Unknown","East North Central","Integrated Network Cancer Program","2013",188,57,30.3
+"Unknown","East North Central","Integrated Network Cancer Program","2014",162,44,27.2
+"Unknown","East North Central","Integrated Network Cancer Program","2015",167,44,26.3
+"Unknown","East North Central","Integrated Network Cancer Program","2016",134,33,24.6
+"Unknown","East North Central","Integrated Network Cancer Program","2017",106,24,22.6
+"Unknown","East North Central","Integrated Network Cancer Program","2018",51,17,33.3
+"Unknown","East North Central","Integrated Network Cancer Program","2019",40,11,27.5
+"Unknown","East North Central","Integrated Network Cancer Program","2020",39,10,25.6
+"Unknown","East North Central","Integrated Network Cancer Program","2021",29,4,13.8
+"Unknown","East South Central","Academic/Research Program","2013",141,46,32.6
+"Unknown","East South Central","Academic/Research Program","2014",153,51,33.3
+"Unknown","East South Central","Academic/Research Program","2015",159,48,30.2
+"Unknown","East South Central","Academic/Research Program","2016",154,55,35.7
+"Unknown","East South Central","Academic/Research Program","2017",104,34,32.7
+"Unknown","East South Central","Academic/Research Program","2018",39,12,30.8
+"Unknown","East South Central","Academic/Research Program","2019",70,20,28.6
+"Unknown","East South Central","Academic/Research Program","2020",54,21,38.9
+"Unknown","East South Central","Academic/Research Program","2021",61,22,36.1
+"Unknown","East South Central","Community Cancer Program","2013",33,9,27.3
+"Unknown","East South Central","Community Cancer Program","2014",35,6,17.1
+"Unknown","East South Central","Community Cancer Program","2015",38,12,31.6
+"Unknown","East South Central","Community Cancer Program","2016",29,6,20.7
+"Unknown","East South Central","Community Cancer Program","2017",21,7,33.3
+"Unknown","East South Central","Community Cancer Program","2018",16,2,12.5
+"Unknown","East South Central","Community Cancer Program","2019",5,0,0
+"Unknown","East South Central","Community Cancer Program","2020",4,0,0
+"Unknown","East South Central","Community Cancer Program","2021",12,1,8.3
+"Unknown","East South Central","Comprehensive Community Cancer Program","2013",189,57,30.2
+"Unknown","East South Central","Comprehensive Community Cancer Program","2014",178,43,24.2
+"Unknown","East South Central","Comprehensive Community Cancer Program","2015",154,40,26
+"Unknown","East South Central","Comprehensive Community Cancer Program","2016",141,33,23.4
+"Unknown","East South Central","Comprehensive Community Cancer Program","2017",105,21,20
+"Unknown","East South Central","Comprehensive Community Cancer Program","2018",51,8,15.7
+"Unknown","East South Central","Comprehensive Community Cancer Program","2019",33,6,18.2
+"Unknown","East South Central","Comprehensive Community Cancer Program","2020",30,7,23.3
+"Unknown","East South Central","Comprehensive Community Cancer Program","2021",43,6,14
+"Unknown","East South Central","Integrated Network Cancer Program","2013",62,11,17.7
+"Unknown","East South Central","Integrated Network Cancer Program","2014",64,15,23.4
+"Unknown","East South Central","Integrated Network Cancer Program","2015",62,11,17.7
+"Unknown","East South Central","Integrated Network Cancer Program","2016",45,9,20
+"Unknown","East South Central","Integrated Network Cancer Program","2017",43,9,20.9
+"Unknown","East South Central","Integrated Network Cancer Program","2018",24,5,20.8
+"Unknown","East South Central","Integrated Network Cancer Program","2019",17,3,17.6
+"Unknown","East South Central","Integrated Network Cancer Program","2020",13,2,15.4
+"Unknown","East South Central","Integrated Network Cancer Program","2021",22,6,27.3
+"Unknown","Middle Atlantic","Academic/Research Program","2013",254,84,33.1
+"Unknown","Middle Atlantic","Academic/Research Program","2014",289,90,31.1
+"Unknown","Middle Atlantic","Academic/Research Program","2015",288,89,30.9
+"Unknown","Middle Atlantic","Academic/Research Program","2016",301,120,39.9
+"Unknown","Middle Atlantic","Academic/Research Program","2017",261,89,34.1
+"Unknown","Middle Atlantic","Academic/Research Program","2018",94,32,34
+"Unknown","Middle Atlantic","Academic/Research Program","2019",92,27,29.3
+"Unknown","Middle Atlantic","Academic/Research Program","2020",85,32,37.6
+"Unknown","Middle Atlantic","Academic/Research Program","2021",86,35,40.7
+"Unknown","Middle Atlantic","Community Cancer Program","2013",16,5,31.2
+"Unknown","Middle Atlantic","Community Cancer Program","2014",10,0,0
+"Unknown","Middle Atlantic","Community Cancer Program","2015",20,3,15
+"Unknown","Middle Atlantic","Community Cancer Program","2016",19,4,21.1
+"Unknown","Middle Atlantic","Community Cancer Program","2017",16,2,12.5
+"Unknown","Middle Atlantic","Community Cancer Program","2018",8,1,12.5
+"Unknown","Middle Atlantic","Community Cancer Program","2019",15,1,6.7
+"Unknown","Middle Atlantic","Community Cancer Program","2020",4,0,0
+"Unknown","Middle Atlantic","Community Cancer Program","2021",6,2,33.3
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2013",160,36,22.5
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2014",137,21,15.3
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2015",106,19,17.9
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2016",120,19,15.8
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2017",108,16,14.8
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2018",34,8,23.5
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2019",32,5,15.6
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2020",33,8,24.2
+"Unknown","Middle Atlantic","Comprehensive Community Cancer Program","2021",28,6,21.4
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2013",66,13,19.7
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2014",66,15,22.7
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2015",45,12,26.7
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2016",53,12,22.6
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2017",35,5,14.3
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2018",16,4,25
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2019",25,10,40
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2020",18,5,27.8
+"Unknown","Middle Atlantic","Integrated Network Cancer Program","2021",26,3,11.5
+"Unknown","Mountain","Academic/Research Program","2013",43,15,34.9
+"Unknown","Mountain","Academic/Research Program","2014",57,21,36.8
+"Unknown","Mountain","Academic/Research Program","2015",56,15,26.8
+"Unknown","Mountain","Academic/Research Program","2016",58,20,34.5
+"Unknown","Mountain","Academic/Research Program","2017",64,36,56.2
+"Unknown","Mountain","Academic/Research Program","2018",10,5,50
+"Unknown","Mountain","Academic/Research Program","2019",6,1,16.7
+"Unknown","Mountain","Academic/Research Program","2020",9,1,11.1
+"Unknown","Mountain","Academic/Research Program","2021",6,3,50
+"Unknown","Mountain","Community Cancer Program","2013",5,0,0
+"Unknown","Mountain","Community Cancer Program","2015",6,1,16.7
+"Unknown","Mountain","Community Cancer Program","2016",10,1,10
+"Unknown","Mountain","Community Cancer Program","2017",7,0,0
+"Unknown","Mountain","Community Cancer Program","2018",3,1,33.3
+"Unknown","Mountain","Community Cancer Program","2019",6,1,16.7
+"Unknown","Mountain","Community Cancer Program","2020",2,0,0
+"Unknown","Mountain","Community Cancer Program","2021",4,1,25
+"Unknown","Mountain","Comprehensive Community Cancer Program","2013",78,26,33.3
+"Unknown","Mountain","Comprehensive Community Cancer Program","2014",82,16,19.5
+"Unknown","Mountain","Comprehensive Community Cancer Program","2015",78,22,28.2
+"Unknown","Mountain","Comprehensive Community Cancer Program","2016",74,21,28.4
+"Unknown","Mountain","Comprehensive Community Cancer Program","2017",57,13,22.8
+"Unknown","Mountain","Comprehensive Community Cancer Program","2018",30,5,16.7
+"Unknown","Mountain","Comprehensive Community Cancer Program","2019",20,3,15
+"Unknown","Mountain","Comprehensive Community Cancer Program","2020",24,2,8.3
+"Unknown","Mountain","Comprehensive Community Cancer Program","2021",15,2,13.3
+"Unknown","Mountain","Integrated Network Cancer Program","2013",51,20,39.2
+"Unknown","Mountain","Integrated Network Cancer Program","2014",60,19,31.7
+"Unknown","Mountain","Integrated Network Cancer Program","2015",94,48,51.1
+"Unknown","Mountain","Integrated Network Cancer Program","2016",90,41,45.6
+"Unknown","Mountain","Integrated Network Cancer Program","2017",104,43,41.3
+"Unknown","Mountain","Integrated Network Cancer Program","2018",24,6,25
+"Unknown","Mountain","Integrated Network Cancer Program","2019",20,6,30
+"Unknown","Mountain","Integrated Network Cancer Program","2020",6,1,16.7
+"Unknown","Mountain","Integrated Network Cancer Program","2021",6,2,33.3
+"Unknown","New England","Academic/Research Program","2013",89,37,41.6
+"Unknown","New England","Academic/Research Program","2014",81,32,39.5
+"Unknown","New England","Academic/Research Program","2015",90,31,34.4
+"Unknown","New England","Academic/Research Program","2016",58,26,44.8
+"Unknown","New England","Academic/Research Program","2017",61,27,44.3
+"Unknown","New England","Academic/Research Program","2018",30,8,26.7
+"Unknown","New England","Academic/Research Program","2019",27,9,33.3
+"Unknown","New England","Academic/Research Program","2020",26,13,50
+"Unknown","New England","Academic/Research Program","2021",20,11,55
+"Unknown","New England","Community Cancer Program","2013",17,5,29.4
+"Unknown","New England","Community Cancer Program","2014",15,2,13.3
+"Unknown","New England","Community Cancer Program","2015",12,3,25
+"Unknown","New England","Community Cancer Program","2016",9,4,44.4
+"Unknown","New England","Community Cancer Program","2017",13,7,53.8
+"Unknown","New England","Community Cancer Program","2018",5,3,60
+"Unknown","New England","Community Cancer Program","2019",4,0,0
+"Unknown","New England","Community Cancer Program","2020",7,0,0
+"Unknown","New England","Community Cancer Program","2021",8,3,37.5
+"Unknown","New England","Comprehensive Community Cancer Program","2013",76,22,28.9
+"Unknown","New England","Comprehensive Community Cancer Program","2014",55,18,32.7
+"Unknown","New England","Comprehensive Community Cancer Program","2015",65,12,18.5
+"Unknown","New England","Comprehensive Community Cancer Program","2016",43,17,39.5
+"Unknown","New England","Comprehensive Community Cancer Program","2017",41,11,26.8
+"Unknown","New England","Comprehensive Community Cancer Program","2018",17,3,17.6
+"Unknown","New England","Comprehensive Community Cancer Program","2019",20,7,35
+"Unknown","New England","Comprehensive Community Cancer Program","2020",15,0,0
+"Unknown","New England","Comprehensive Community Cancer Program","2021",13,4,30.8
+"Unknown","New England","Integrated Network Cancer Program","2013",38,7,18.4
+"Unknown","New England","Integrated Network Cancer Program","2014",42,16,38.1
+"Unknown","New England","Integrated Network Cancer Program","2015",54,16,29.6
+"Unknown","New England","Integrated Network Cancer Program","2016",31,7,22.6
+"Unknown","New England","Integrated Network Cancer Program","2017",36,15,41.7
+"Unknown","New England","Integrated Network Cancer Program","2018",12,4,33.3
+"Unknown","New England","Integrated Network Cancer Program","2019",7,2,28.6
+"Unknown","New England","Integrated Network Cancer Program","2020",12,5,41.7
+"Unknown","New England","Integrated Network Cancer Program","2021",9,1,11.1
+"Unknown","Pacific","Academic/Research Program","2013",178,64,36
+"Unknown","Pacific","Academic/Research Program","2014",135,46,34.1
+"Unknown","Pacific","Academic/Research Program","2015",143,53,37.1
+"Unknown","Pacific","Academic/Research Program","2016",124,43,34.7
+"Unknown","Pacific","Academic/Research Program","2017",90,33,36.7
+"Unknown","Pacific","Academic/Research Program","2018",47,12,25.5
+"Unknown","Pacific","Academic/Research Program","2019",47,14,29.8
+"Unknown","Pacific","Academic/Research Program","2020",40,12,30
+"Unknown","Pacific","Academic/Research Program","2021",34,7,20.6
+"Unknown","Pacific","Community Cancer Program","2013",42,6,14.3
+"Unknown","Pacific","Community Cancer Program","2014",52,14,26.9
+"Unknown","Pacific","Community Cancer Program","2015",52,13,25
+"Unknown","Pacific","Community Cancer Program","2016",38,12,31.6
+"Unknown","Pacific","Community Cancer Program","2017",32,4,12.5
+"Unknown","Pacific","Community Cancer Program","2018",11,2,18.2
+"Unknown","Pacific","Community Cancer Program","2019",13,3,23.1
+"Unknown","Pacific","Community Cancer Program","2020",9,1,11.1
+"Unknown","Pacific","Community Cancer Program","2021",14,3,21.4
+"Unknown","Pacific","Comprehensive Community Cancer Program","2013",217,71,32.7
+"Unknown","Pacific","Comprehensive Community Cancer Program","2014",200,72,36
+"Unknown","Pacific","Comprehensive Community Cancer Program","2015",191,54,28.3
+"Unknown","Pacific","Comprehensive Community Cancer Program","2016",200,60,30
+"Unknown","Pacific","Comprehensive Community Cancer Program","2017",175,50,28.6
+"Unknown","Pacific","Comprehensive Community Cancer Program","2018",66,14,21.2
+"Unknown","Pacific","Comprehensive Community Cancer Program","2019",34,6,17.6
+"Unknown","Pacific","Comprehensive Community Cancer Program","2020",48,11,22.9
+"Unknown","Pacific","Comprehensive Community Cancer Program","2021",33,5,15.2
+"Unknown","Pacific","Integrated Network Cancer Program","2013",80,26,32.5
+"Unknown","Pacific","Integrated Network Cancer Program","2014",96,24,25
+"Unknown","Pacific","Integrated Network Cancer Program","2015",74,32,43.2
+"Unknown","Pacific","Integrated Network Cancer Program","2016",49,13,26.5
+"Unknown","Pacific","Integrated Network Cancer Program","2017",54,15,27.8
+"Unknown","Pacific","Integrated Network Cancer Program","2018",13,3,23.1
+"Unknown","Pacific","Integrated Network Cancer Program","2019",22,5,22.7
+"Unknown","Pacific","Integrated Network Cancer Program","2020",17,4,23.5
+"Unknown","Pacific","Integrated Network Cancer Program","2021",16,3,18.8
+"Unknown","South Atlantic","Academic/Research Program","2013",325,126,38.8
+"Unknown","South Atlantic","Academic/Research Program","2014",335,115,34.3
+"Unknown","South Atlantic","Academic/Research Program","2015",334,112,33.5
+"Unknown","South Atlantic","Academic/Research Program","2016",350,107,30.6
+"Unknown","South Atlantic","Academic/Research Program","2017",377,134,35.5
+"Unknown","South Atlantic","Academic/Research Program","2018",134,52,38.8
+"Unknown","South Atlantic","Academic/Research Program","2019",96,36,37.5
+"Unknown","South Atlantic","Academic/Research Program","2020",71,19,26.8
+"Unknown","South Atlantic","Academic/Research Program","2021",61,22,36.1
+"Unknown","South Atlantic","Community Cancer Program","2013",82,15,18.3
+"Unknown","South Atlantic","Community Cancer Program","2014",85,15,17.6
+"Unknown","South Atlantic","Community Cancer Program","2015",59,9,15.3
+"Unknown","South Atlantic","Community Cancer Program","2016",57,16,28.1
+"Unknown","South Atlantic","Community Cancer Program","2017",56,17,30.4
+"Unknown","South Atlantic","Community Cancer Program","2018",25,4,16
+"Unknown","South Atlantic","Community Cancer Program","2019",24,2,8.3
+"Unknown","South Atlantic","Community Cancer Program","2020",12,2,16.7
+"Unknown","South Atlantic","Community Cancer Program","2021",11,1,9.1
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2013",441,95,21.5
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2014",380,76,20
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2015",327,54,16.5
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2016",333,67,20.1
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2017",281,51,18.1
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2018",139,22,15.8
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2019",118,16,13.6
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2020",101,14,13.9
+"Unknown","South Atlantic","Comprehensive Community Cancer Program","2021",98,15,15.3
+"Unknown","South Atlantic","Integrated Network Cancer Program","2013",222,62,27.9
+"Unknown","South Atlantic","Integrated Network Cancer Program","2014",201,44,21.9
+"Unknown","South Atlantic","Integrated Network Cancer Program","2015",196,47,24
+"Unknown","South Atlantic","Integrated Network Cancer Program","2016",175,38,21.7
+"Unknown","South Atlantic","Integrated Network Cancer Program","2017",138,23,16.7
+"Unknown","South Atlantic","Integrated Network Cancer Program","2018",74,14,18.9
+"Unknown","South Atlantic","Integrated Network Cancer Program","2019",65,16,24.6
+"Unknown","South Atlantic","Integrated Network Cancer Program","2020",44,6,13.6
+"Unknown","South Atlantic","Integrated Network Cancer Program","2021",63,18,28.6
+"Unknown","Unknown","Unknown","2013",35,20,57.1
+"Unknown","Unknown","Unknown","2014",36,18,50
+"Unknown","Unknown","Unknown","2015",43,25,58.1
+"Unknown","Unknown","Unknown","2016",39,20,51.3
+"Unknown","Unknown","Unknown","2017",39,21,53.8
+"Unknown","Unknown","Unknown","2018",18,9,50
+"Unknown","Unknown","Unknown","2019",16,12,75
+"Unknown","Unknown","Unknown","2020",10,7,70
+"Unknown","Unknown","Unknown","2021",9,4,44.4
+"Unknown","West North Central","Academic/Research Program","2013",150,69,46
+"Unknown","West North Central","Academic/Research Program","2014",113,40,35.4
+"Unknown","West North Central","Academic/Research Program","2015",120,60,50
+"Unknown","West North Central","Academic/Research Program","2016",138,53,38.4
+"Unknown","West North Central","Academic/Research Program","2017",130,67,51.5
+"Unknown","West North Central","Academic/Research Program","2018",30,11,36.7
+"Unknown","West North Central","Academic/Research Program","2019",36,14,38.9
+"Unknown","West North Central","Academic/Research Program","2020",40,18,45
+"Unknown","West North Central","Academic/Research Program","2021",27,8,29.6
+"Unknown","West North Central","Community Cancer Program","2013",43,16,37.2
+"Unknown","West North Central","Community Cancer Program","2014",31,5,16.1
+"Unknown","West North Central","Community Cancer Program","2015",25,4,16
+"Unknown","West North Central","Community Cancer Program","2016",18,4,22.2
+"Unknown","West North Central","Community Cancer Program","2017",18,2,11.1
+"Unknown","West North Central","Community Cancer Program","2018",12,1,8.3
+"Unknown","West North Central","Community Cancer Program","2019",10,2,20
+"Unknown","West North Central","Community Cancer Program","2020",6,0,0
+"Unknown","West North Central","Community Cancer Program","2021",13,1,7.7
+"Unknown","West North Central","Comprehensive Community Cancer Program","2013",108,38,35.2
+"Unknown","West North Central","Comprehensive Community Cancer Program","2014",106,49,46.2
+"Unknown","West North Central","Comprehensive Community Cancer Program","2015",99,30,30.3
+"Unknown","West North Central","Comprehensive Community Cancer Program","2016",95,37,38.9
+"Unknown","West North Central","Comprehensive Community Cancer Program","2017",93,27,29
+"Unknown","West North Central","Comprehensive Community Cancer Program","2018",22,5,22.7
+"Unknown","West North Central","Comprehensive Community Cancer Program","2019",32,9,28.1
+"Unknown","West North Central","Comprehensive Community Cancer Program","2020",18,5,27.8
+"Unknown","West North Central","Comprehensive Community Cancer Program","2021",16,5,31.2
+"Unknown","West North Central","Integrated Network Cancer Program","2013",20,1,5
+"Unknown","West North Central","Integrated Network Cancer Program","2014",32,7,21.9
+"Unknown","West North Central","Integrated Network Cancer Program","2015",20,8,40
+"Unknown","West North Central","Integrated Network Cancer Program","2016",18,5,27.8
+"Unknown","West North Central","Integrated Network Cancer Program","2017",26,4,15.4
+"Unknown","West North Central","Integrated Network Cancer Program","2018",5,3,60
+"Unknown","West North Central","Integrated Network Cancer Program","2019",9,5,55.6
+"Unknown","West North Central","Integrated Network Cancer Program","2020",8,1,12.5
+"Unknown","West North Central","Integrated Network Cancer Program","2021",7,3,42.9
+"Unknown","West South Central","Academic/Research Program","2013",360,68,18.9
+"Unknown","West South Central","Academic/Research Program","2014",396,88,22.2
+"Unknown","West South Central","Academic/Research Program","2015",193,52,26.9
+"Unknown","West South Central","Academic/Research Program","2016",162,49,30.2
+"Unknown","West South Central","Academic/Research Program","2017",138,43,31.2
+"Unknown","West South Central","Academic/Research Program","2018",66,16,24.2
+"Unknown","West South Central","Academic/Research Program","2019",56,15,26.8
+"Unknown","West South Central","Academic/Research Program","2020",51,13,25.5
+"Unknown","West South Central","Academic/Research Program","2021",31,7,22.6
+"Unknown","West South Central","Community Cancer Program","2013",27,13,48.1
+"Unknown","West South Central","Community Cancer Program","2014",27,9,33.3
+"Unknown","West South Central","Community Cancer Program","2015",26,5,19.2
+"Unknown","West South Central","Community Cancer Program","2016",21,5,23.8
+"Unknown","West South Central","Community Cancer Program","2017",22,3,13.6
+"Unknown","West South Central","Community Cancer Program","2018",16,3,18.8
+"Unknown","West South Central","Community Cancer Program","2019",6,2,33.3
+"Unknown","West South Central","Community Cancer Program","2020",3,1,33.3
+"Unknown","West South Central","Community Cancer Program","2021",7,1,14.3
+"Unknown","West South Central","Comprehensive Community Cancer Program","2013",203,69,34
+"Unknown","West South Central","Comprehensive Community Cancer Program","2014",216,57,26.4
+"Unknown","West South Central","Comprehensive Community Cancer Program","2015",204,41,20.1
+"Unknown","West South Central","Comprehensive Community Cancer Program","2016",193,52,26.9
+"Unknown","West South Central","Comprehensive Community Cancer Program","2017",143,31,21.7
+"Unknown","West South Central","Comprehensive Community Cancer Program","2018",58,14,24.1
+"Unknown","West South Central","Comprehensive Community Cancer Program","2019",52,10,19.2
+"Unknown","West South Central","Comprehensive Community Cancer Program","2020",39,10,25.6
+"Unknown","West South Central","Comprehensive Community Cancer Program","2021",51,9,17.6
+"Unknown","West South Central","Integrated Network Cancer Program","2013",54,17,31.5
+"Unknown","West South Central","Integrated Network Cancer Program","2014",41,12,29.3
+"Unknown","West South Central","Integrated Network Cancer Program","2015",43,13,30.2
+"Unknown","West South Central","Integrated Network Cancer Program","2016",43,12,27.9
+"Unknown","West South Central","Integrated Network Cancer Program","2017",32,10,31.2
+"Unknown","West South Central","Integrated Network Cancer Program","2018",4,1,25
+"Unknown","West South Central","Integrated Network Cancer Program","2019",22,6,27.3
+"Unknown","West South Central","Integrated Network Cancer Program","2020",18,3,16.7
+"Unknown","West South Central","Integrated Network Cancer Program","2021",12,1,8.3

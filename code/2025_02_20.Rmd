@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+author: "Me"
+output: html_document
+---
+
+
+```{r}
+library(DiagrammeR)
+mermaid("
+graph TD
+    A[Start: update agent]
+    B[Append current disease state to history]
+    C[Increment age by one]
+    D{Age less or equal to ageCap and not vaccinated?}
+    E[Perform random vaccination with 30 percent chance]
+    F[Do not vaccinate]
+    G{HPV status equals none?}
+    H[Set p infection: if age less than 26 then 0.05 else 0.02]
+    I{Agent is vaccinated?}
+    J[Multiply p infection by 0.1]
+    K[Keep p infection unchanged]
+    L{Random value less than p infection?}
+    M[Set HPV status to low risk with 80 percent chance or high risk with 20 percent chance]
+    N[HPV status remains none]
+    O[Evaluate disease progression]
+    P{HPV status equals high risk?}
+    Q[If healthy and random value less than 0.2 change state to precancer]
+    R[If precancer and random value less than 0.3 change state to cancer]
+    S{HPV status equals low risk?}
+    T[If healthy and random value less than 0.05 change state to precancer]
+    U[If precancer and random value less than 0.075 change state to cancer]
+    V[No change in state]
+    W[Evaluate death events]
+    X{If disease state equals cancer and random value less than 0.2?}
+    Y[Change state to dead from cancer]
+    Z{Else if random value less than 0.01?}
+    AA[Change state to dead from background mortality]
+    AB[Return updated agent]
+
+    A --> B
+    B --> C
+    C --> D
+    D -- Yes --> E
+    D -- No --> F
+    E --> G
+    F --> G
+    G -- Yes --> H
+    G -- No --> O
+    H --> I
+    I -- Yes --> J
+    I -- No --> K
+    J --> L
+    K --> L
+    L -- Yes --> M
+    L -- No --> N
+    M --> O
+    N --> O
+    O --> P
+    P -- Yes --> Q
+    Q --> R
+    R --> W
+    P -- No --> S
+    S -- Yes --> T
+    T --> U
+    U --> W
+    S -- No --> V
+    Q -- Not triggered --> V
+    R -- Not triggered --> V
+    T -- Not triggered --> V
+    U -- Not triggered --> V
+    V --> W
+    W --> X
+    X -- Yes --> Y
+    X -- No --> Z
+    Z -- Yes --> AA
+    Z -- No --> AB
+    Y --> AB
+    AA --> AB
+")
+```
