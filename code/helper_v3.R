@@ -413,8 +413,23 @@ run_simulation <- function(age_cap) {
       dead_ids <- curr_living$id[is_dead]
       if(length(dead_ids) > 0) {
         causes <- rep("other", length(dead_ids))
-        ca_mask <- population[id %in% dead_ids, health_state == "cancer"]
-        causes[ca_mask] <- "opc"
+
+        # Competing risks attribution for cancer patients.
+        # Each dying cancer patient is attributed to OPC with probability =
+        # excess_rate / total_rate (attributable fraction). Background deaths
+        # in long-term survivors are not counted as OPC deaths.
+        dead_pop   <- curr_living[is_dead]
+        ca_mask    <- dead_pop$health_state == "cancer"
+        if(any(ca_mask)) {
+          ca_dead      <- dead_pop[ca_mask]
+          bg_rates_ca  <- get_mortality_rate_vec(ca_dead$age)
+          bg_rates_ca[ca_dead$smoker] <- bg_rates_ca[ca_dead$smoker] * smoking_mortality_RR
+          is_active    <- ca_dead$cancer_duration <= CANCER_SURVIVOR_THRESHOLD
+          excess_rates <- ifelse(is_active, opc_mortality_annual, opc_survivor_excess_mortality)
+          p_opc        <- excess_rates / (bg_rates_ca + excess_rates)
+          causes[ca_mask] <- ifelse(runif(sum(ca_mask)) < p_opc, "opc", "other")
+        }
+
         population[id %in% dead_ids, `:=`(
           alive = FALSE,
           death_year = year,
