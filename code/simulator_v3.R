@@ -50,9 +50,14 @@ smoking_clearance_RR   <- 0.7   # Smoking REDUCES clearance (RR < 1)
 # --- PERSISTENCE (Sheet 4) ---------------------------------------
 persistence_threshold_years   <- 2L   # Standard: >24mo continuous infection
 # Bug 1 fix: ONE-SHOT roll at the moment infection_duration crosses
-# the 2-year threshold (NOT a per-year hazard). Value derived from
-# Pierce Campbell 2015 (HIM Study) — see param table.
-p_persistence_given_long_inf  <- 0.40
+# the 2-year threshold (NOT a per-year hazard).
+# CALIBRATED VALUE: 0.020 (calibrated 2026-05-23 to match VA HPV+ OPC
+# incidence target of 6-9 per 100,000 PY from Saxena et al. J Med Econ
+# 2022, adjusted for ~70% HPV+ fraction). Campbell 2015 (HIM Study)
+# gave 0.40 for HPV-16 specifically in a high-risk cohort; 0.020
+# reflects P(any oncogenic type -> OPC-causing persistence) across the
+# full type distribution in the broader VA male population.
+p_persistence_given_long_inf  <- 0.020
 
 # --- LATENCY TO OPC (Sheet 5) ------------------------------------
 # Weibull(shape=3, scale=20) -> mean ~ 17.9y, median ~ 17.7y.
