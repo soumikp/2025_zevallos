@@ -37,7 +37,7 @@ p_clearance_persistent <- 0.05
 smoking_clearance_RR   <- 0.7
 
 persistence_threshold_years  <- 2L
-p_persistence_given_long_inf <- 0.40
+p_persistence_given_long_inf <- 0.020  # calibrated 2026-05-23
 
 weibull_shape <- 3.0
 weibull_scale <- 20.0
