@@ -94,11 +94,15 @@ vaccine_cost <- 550            # Full series (3-dose) cost, 2024 USD
 # COST_OPC_DIAGNOSIS, COST_ANNUAL_CANCER_TX, COST_ANNUAL_SURVIVOR in helper.R
 
 
-# --- Run scenarios -----------------------------------------------
+# --- Run scenarios (CRN: shared base population + mortality draws) -------
+base_pop   <- generate_population(num_agents)
+mort_draws <- matrix(as.single(runif(num_agents * sim_years)),
+                     nrow = num_agents, ncol = sim_years)
 results <- list()
 for(cap in vaccination_age_caps) {
   cat(paste("Running age cap", cap, "...\n"))
-  results[[as.character(cap)]] <- run_simulation(cap)
+  results[[as.character(cap)]] <- run_simulation(cap, base_pop = base_pop,
+                                                 mort_draws = mort_draws)
 }
 
 plots <- generate_plots(results)

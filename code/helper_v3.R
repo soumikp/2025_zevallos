@@ -174,9 +174,9 @@ generate_population <- function(n) {
 }
 
 # --- Main simulation ---------------------------------------------
-run_simulation <- function(age_cap) {
-  
-  population <- generate_population(num_agents)
+run_simulation <- function(age_cap, base_pop = NULL, mort_draws = NULL) {
+
+  population <- if (is.null(base_pop)) generate_population(num_agents) else copy(base_pop)
   
   stats_mat <- matrix(0, nrow = sim_years, ncol = 15)
   colnames(stats_mat) <- c("year", "n_vaccinated", "n_new_infected", "n_cleared",
@@ -409,7 +409,8 @@ run_simulation <- function(age_cap) {
         curr_living$cancer_duration > CANCER_SURVIVOR_THRESHOLD
       mort_rates[is_surv_ca] <- mort_rates[is_surv_ca] + opc_survivor_excess_mortality
       
-      is_dead <- runif(nrow(curr_living)) < mort_rates
+      u_mort  <- if (!is.null(mort_draws)) mort_draws[curr_living$id, year] else runif(nrow(curr_living))
+      is_dead <- u_mort < mort_rates
       dead_ids <- curr_living$id[is_dead]
       if(length(dead_ids) > 0) {
         causes <- rep("other", length(dead_ids))

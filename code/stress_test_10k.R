@@ -61,11 +61,20 @@ vaccine_cost <- 550
 cat("=== STRESS TEST: num_agents =", num_agents, "===\n\n")
 t_start <- proc.time()
 
+cat("Generating base population + mortality CRN draws...\n")
+t0 <- proc.time()
+base_pop   <- generate_population(num_agents)
+mort_draws <- matrix(as.single(runif(num_agents * sim_years)),
+                     nrow = num_agents, ncol = sim_years)
+cat(sprintf("  Ready in %.1fs (mort_draws: %.0f MB)\n\n",
+            (proc.time() - t0)[["elapsed"]], object.size(mort_draws) / 1e6))
+
 results <- list()
 for(cap in vaccination_age_caps) {
   cat(paste0("Running age cap ", cap, "...\n"))
   t0 <- proc.time()
-  results[[as.character(cap)]] <- run_simulation(cap)
+  results[[as.character(cap)]] <- run_simulation(cap, base_pop = base_pop,
+                                                 mort_draws = mort_draws)
   elapsed <- (proc.time() - t0)[["elapsed"]]
   cat(paste0("  Done in ", round(elapsed, 1), "s\n"))
 }
