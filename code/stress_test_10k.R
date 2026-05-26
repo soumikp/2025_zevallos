@@ -129,7 +129,6 @@ tryCatch({
   print(plots$persistent_plot)
   print(plots$opc_deaths_plot)
   print(plots$costs_plot)
-  print(plots$state_plot)
 }, error = function(e) {
   cat("WARNING: generate_plots() failed:", conditionMessage(e), "\n")
 })
