@@ -1,11 +1,12 @@
 ---
 title: "HPV Vaccination Simulation Model"
 subtitle: "Cost-effectiveness of extending vaccination age cap within VHA"
-date: "2026-05-26"
 format:
-  beamer:
-    aspectratio: 169
+  html:
     theme: default
+    embed-resources: true
+    grid:
+      body-width: 1300px
 execute:
   echo: false
   warning: false
@@ -46,9 +47,9 @@ with background mortality from all states (SSA 2021 male life table)
 | Expansion 3 | 40 |
 | Expansion 4 | 45 (FDA-approved) |
 
-\bigskip
+<br><br>
 
-**Outcome measures**: discounted QALYs, vaccination costs, OPC treatment costs, OPC cases averted, OPC deaths averted, ICER
+**Outcome measures**: cumulative OPC cases, cumulative OPC deaths, cumulative persistent HPV infections
 
 :::
 ::::
@@ -61,14 +62,16 @@ with background mortality from all states (SSA 2021 male life table)
 | Infected $\to$ Healthy | Annual clearance | 0.60 (yr 0--1), 0.40 (yr 2+); reduced by smoking (RR 0.70) |
 | Infected $\to$ Persistent | One-shot roll at $\geq$2 yr | $p = \mathbf{0.020}$ *(calibrated)*; reduced 85% if vaccinated |
 | Persistent $\to$ Cancer | Weibull latency | shape $= 3$, scale $= 20$ (mean $\approx 18$ yr); accelerated by smoking/alcohol |
-| Cancer $\to$ Dead (OPC) | Competing risks | $p_\text{OPC} = \text{excess rate} / (\text{background} + \text{excess})$; $\approx 28\%$ attributed to OPC |
+| Cancer $\to$ Dead (OPC) | Competing risks | $p_{\text{OPC}} = \frac{\text{excess rate}}{\text{background} + \text{excess}}$; $\approx 28\%$ attributed to OPC |
 | Any $\to$ Dead (background) | Age-specific | SSA 2021 male life table; $\times 2.0$ if current smoker |
 
-\footnotesize Persistence: one-shot roll per infection episode at $\geq 2$ years continuous infection. Agent flagged so no annual re-rolling.
+::: {style="font-size: 0.8em;"}
+Persistence: one-shot roll per infection episode at $\geq 2$ years continuous infection. Agent flagged so no annual re-rolling.
+:::
 
 ## Key parameters
 
-\footnotesize
+::: {style="font-size: 0.8em;"}
 
 | Parameter | Value | Source |
 |---|---|---|
@@ -80,9 +83,9 @@ with background mortality from all states (SSA 2021 male life table)
 | Vaccine efficacy — acquisition | 90% reduction | Damgacioglu 2022; Chaturvedi 2018 |
 | Vaccine efficacy — persistence | 85% reduction | Extrapolated (no direct trial data) |
 | Vaccine uptake | 15%/yr if eligible | **Placeholder** — Aim 1 will supply age-stratified rates |
-| Vaccine cost | \$550/series | CDC price list, Dec 2024 |
-| OPC treatment cost | \$85,000/yr (active phase) | Saxena 2022 VA, CPI-adjusted to 2024 USD |
 | Background mortality | SSA 2021 male life table | SSA Trustees Report 2024 |
+
+:::
 
 ## Progress since grant review
 
@@ -91,24 +94,26 @@ with background mortality from all states (SSA 2021 male life table)
 
 **Addressed**
 
-\small
+::: {style="font-size: 0.9em;"}
 
-- **Sample size**: $10\text{k} \to 1.5\text{M}$ (policy-relevant VHA population)
+- **Sample size**: 10k $\to$ 1.5M (policy-relevant VHA population)
 
 - **VA OPC incidence calibration**: $p_\text{pers} = 0.020$ yields 6.59/100k PY; target 6--9 (Saxena 2022)
 
 - **OPC latency**: Weibull mean $\approx 18$ yr (scale $= 20$), consistent with reviewer range of 10--30 yr
 
-- **OPC death attribution**: competing risks approach ($\approx 28\%$ CFR); flat assignment previously gave 99.6%
-
-- **ICER stability**: common random numbers (shared population + mortality draws); all 5 scenarios on efficient frontier
+- **OPC death attribution**: competing risks approach ($\approx 28\%$ CFR); flat assignment previously gave 99.6%.
 
 :::
+:::
+
 ::: {.column width="50%"}
 
 **Remaining**
 
-\small
+::: {style="font-size: 0.9em;"}
+
+- **Cost-effectiveness analysis**: vaccine cost (\$550/series, CDC 2024), OPC treatment cost (Saxena 2022 VA), and ICER computation not yet added to slides
 
 - Vaccination uptake: flat 15\% placeholder $\to$ replace with Aim 1 real data (age-stratified by 5-year band)
 
@@ -121,22 +126,29 @@ with background mortality from all states (SSA 2021 male life table)
 - MSM removed from model (was in original design; out of current scope)
 
 :::
+:::
 ::::
 
-## Results: OPC cases and deaths
+## Results: cumulative OPC cases
 
-```{=latex}
-\includegraphics[page=1, width=0.49\textwidth]{../code/stress_test_10k_plots.pdf}\hfill
-\includegraphics[page=3, width=0.49\textwidth]{../code/stress_test_10k_plots.pdf}
-```
+![](../code/stress_test_10k_plots_page_1.png){width=70%}
 
-\footnotesize $n = 1{,}500{,}000$ male veterans; CRN; calibrated model ($p_\text{pers} = 0.020$, 6.59 HPV+ OPC per 100k PY). Age cap 26 = status quo.
+::: {style="font-size: 0.8em; margin-top: 10px;"}
+$n = 1{,}500{,}000$ male veterans; CRN; calibrated model ($p_{\text{pers}} = 0.020$, 6.59 HPV+ OPC per 100k PY). Age cap 26 = status quo.
+:::
 
-## Results: persistent infections and costs
+## Results: cumulative OPC deaths
 
-```{=latex}
-\includegraphics[page=2, width=0.49\textwidth]{../code/stress_test_10k_plots.pdf}\hfill
-\includegraphics[page=4, width=0.49\textwidth]{../code/stress_test_10k_plots.pdf}
-```
+![](../code/stress_test_10k_plots_page_3.png){width=70%}
 
-\footnotesize Left: persistent HPV infections (intermediate endpoint). Right: cumulative discounted costs (vaccine + OPC treatment). Higher age caps increase vaccine spending but offset via reduced cancer costs.
+::: {style="font-size: 0.8em; margin-top: 10px;"}
+Competing-risks attribution ($\approx 28\%$ CFR); higher age caps reduce cumulative OPC-attributed deaths monotonically.
+:::
+
+## Results: cumulative persistent HPV infections
+
+![](../code/stress_test_10k_plots_page_2.png){width=70%}
+
+::: {style="font-size: 0.8em; margin-top: 10px;"}
+Intermediate endpoint. Monotonic reduction with higher age cap; magnitude reflects additional infections averted by extending vaccine eligibility.
+:::
